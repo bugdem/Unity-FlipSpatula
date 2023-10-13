@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: 2645085f542b3aa4db287ededf1654a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6283639478961437791
+    second: LevelFailed
+  - first:
+      213: 8492074914777066525
+    second: LevelSuccess
+  - first:
+      213: -552912897233351425
+    second: Play
+  - first:
+      213: 4506009856706112910
+    second: Restart
+  - first:
+      213: 5889673996072078405
+    second: Fight
+  - first:
+      213: -924403104830769909
+    second: Coin
+  - first:
+      213: -8203433328661424352
+    second: TapFinger
+  - first:
+      213: 4519998638334669218
+    second: Next
+  - first:
+      213: 8825320557148889323
+    second: Restart_2
+  - first:
+      213: 9059980179506943222
+    second: TapEffect
+  - first:
+      213: 950243600765725549
+    second: TapText
+  - first:
+      213: -4407607500858639347
+    second: ui_atlas_002_11
+  - first:
+      213: -698136489556872293
+    second: Start
+  - first:
+      213: -6307626845367262550
+    second: StartEmpty
+  - first:
+      213: 2182788972597613928
+    second: ui_atlas_002_14
+  - first:
+      213: -4741665117017827656
+    second: ui_atlas_002_15
+  - first:
+      213: -7067732878732968766
+    second: ui_atlas_002_16
+  - first:
+      213: -1468483787872788542
+    second: ui_atlas_002_17
+  - first:
+      213: -5557713254501542118
+    second: ui_atlas_002_18
+  - first:
+      213: 8732559365137769128
+    second: ui_atlas_002_19
+  - first:
+      213: 8637478583782437911
+    second: ui_atlas_002_20
+  - first:
+      213: -1613848385783190270
+    second: ui_atlas_002_21
+  - first:
+      213: 4494120055753630899
+    second: ui_atlas_002_22
+  - first:
+      213: 1262237208903706506
+    second: ui_atlas_002_23
+  - first:
+      213: -5167803275949647678
+    second: ui_atlas_002_24
+  - first:
+      213: 946636646243667262
+    second: ui_atlas_002_25
+  - first:
+      213: -8136526553920361515
+    second: ui_atlas_002_26
+  - first:
+      213: -5328377088654689072
+    second: ui_atlas_002_27
+  - first:
+      213: 7159986659614104962
+    second: ui_atlas_002_28
+  - first:
+      213: -7695232752331083393
+    second: TapEffect
+  - first:
+      213: -4408972591658494335
+    second: TapText
+  - first:
+      213: -4408972591658494335
+    second: TapEffect
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LevelFailed
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1055
+        width: 1000
+        height: 985
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cfd1060d8f33750800000000000000
+      internalID: 6283639478961437791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSuccess
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1057
+        width: 1000
+        height: 983
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cea4d5429e9d570800000000000000
+      internalID: 8492074914777066525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 763
+        width: 412
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc8ca046a8a358f0800000000000000
+      internalID: -552912897233351425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Restart
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 763
+        width: 512
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d606f3710988e30800000000000000
+      internalID: 4506009856706112910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 766
+        width: 512
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c4bba6b435cb150800000000000000
+      internalID: 5889673996072078405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 774
+        width: 257
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b053b4b164cdb23f0800000000000000
+      internalID: -924403104830769909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapFinger
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 255
+        width: 245
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027198ae9dc872e80800000000000000
+      internalID: -8203433328661424352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 471
+        width: 512
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1ff2740d24abe30800000000000000
+      internalID: 4519998638334669218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Restart_2
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 471
+        width: 512
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0efc5c946d97a70800000000000000
+      internalID: 8825320557148889323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 112
+        width: 326
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b937937cf88bf46f0800000000000000
+      internalID: -698136489556872293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StartEmpty
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 112
+        width: 326
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2aa2aadcec678a0800000000000000
+      internalID: -6307626845367262550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapText
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 24
+        width: 867
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71ba55359a053590800000000000000
+      internalID: 950243600765725549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapEffect
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 187
+        width: 511
+        height: 537
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18613c1a9ce20d2c0800000000000000
+      internalID: 9059980179506943222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f894bb46843e57845b2c8c50d63f8a6d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TapEffect: 9059980179506943222
+      LevelFailed: 6283639478961437791
+      Play: -552912897233351425
+      TapFinger: -8203433328661424352
+      StartEmpty: -6307626845367262550
+      LevelSuccess: 8492074914777066525
+      Next: 4519998638334669218
+      Coin: -924403104830769909
+      Restart: 4506009856706112910
+      Fight: 5889673996072078405
+      Start: -698136489556872293
+      TapText: 950243600765725549
+      Restart_2: 8825320557148889323
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

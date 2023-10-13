@@ -1,0 +1,3630 @@
+{
+  "Version": 1,
+  "Metadata": {
+    "Project": "",
+    "Created": ""
+  },
+  "Pattern": [
+    {
+      "Event": {
+        "Time": 0,
+        "EventType": "HapticContinuous",
+        "EventDuration": 8.326938775510204,
+        "EventParameters": [
+          {
+            "ParameterID": "HapticIntensity",
+            "ParameterValue": 1
+          },
+          {
+            "ParameterID": "HapticSharpness",
+            "ParameterValue": 0
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 0,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 0,
+            "ParameterValue": 0.1763874139356224
+          },
+          {
+            "Time": 0.00045351473922902497,
+            "ParameterValue": 0.46867181017280396
+          },
+          {
+            "Time": 0.03310657596371882,
+            "ParameterValue": 0.3105750732158122
+          },
+          {
+            "Time": 0.037188208616780044,
+            "ParameterValue": 0.4213473945765335
+          },
+          {
+            "Time": 0.07120181405895691,
+            "ParameterValue": 0.33565576406252007
+          },
+          {
+            "Time": 0.08027210884353742,
+            "ParameterValue": 0.45595112783211045
+          },
+          {
+            "Time": 0.11519274376417234,
+            "ParameterValue": 0.3071791077849829
+          },
+          {
+            "Time": 0.14512471655328799,
+            "ParameterValue": 0.3536116339157324
+          },
+          {
+            "Time": 0.145578231292517,
+            "ParameterValue": 0.4695055355394655
+          },
+          {
+            "Time": 0.20498866213151928,
+            "ParameterValue": 0.3968996340221074
+          },
+          {
+            "Time": 0.21405895691609977,
+            "ParameterValue": 0.5593213507783115
+          },
+          {
+            "Time": 0.25532879818594106,
+            "ParameterValue": 0.35467891974609994
+          },
+          {
+            "Time": 0.272108843537415,
+            "ParameterValue": 0.5905930339539361
+          },
+          {
+            "Time": 0.29478458049886624,
+            "ParameterValue": 0.4441197129218992
+          },
+          {
+            "Time": 0.3242630385487528,
+            "ParameterValue": 0.49440965704331713
+          },
+          {
+            "Time": 0.3437641723356009,
+            "ParameterValue": 0.4028237569877798
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 0.3437641723356009,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 0.3437641723356009,
+            "ParameterValue": 0.4028237569877798
+          },
+          {
+            "Time": 0.35328798185941046,
+            "ParameterValue": 0.553820099573693
+          },
+          {
+            "Time": 0.3873015873015873,
+            "ParameterValue": 0.49503920707738036
+          },
+          {
+            "Time": 0.3895691609977324,
+            "ParameterValue": 0.6385420758209731
+          },
+          {
+            "Time": 0.4072562358276644,
+            "ParameterValue": 0.4850337193179305
+          },
+          {
+            "Time": 0.43038548752834466,
+            "ParameterValue": 0.41654628415794015
+          },
+          {
+            "Time": 0.4394557823129252,
+            "ParameterValue": 0.6118786320577198
+          },
+          {
+            "Time": 0.45623582766439913,
+            "ParameterValue": 0.5061862857430456
+          },
+          {
+            "Time": 0.4766439909297052,
+            "ParameterValue": 0.5882730339549271
+          },
+          {
+            "Time": 0.4979591836734694,
+            "ParameterValue": 0.4267592192484738
+          },
+          {
+            "Time": 0.5229024943310657,
+            "ParameterValue": 0.5141723954393779
+          },
+          {
+            "Time": 0.5233560090702948,
+            "ParameterValue": 0.7530910189558014
+          },
+          {
+            "Time": 0.5487528344671202,
+            "ParameterValue": 0.5196270075925078
+          },
+          {
+            "Time": 0.5659863945578232,
+            "ParameterValue": 0.5799431441009562
+          },
+          {
+            "Time": 0.5927437641723357,
+            "ParameterValue": 0.40587916919517325
+          },
+          {
+            "Time": 0.6090702947845805,
+            "ParameterValue": 0.4402222766093261
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 0.6090702947845805,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 0.6090702947845805,
+            "ParameterValue": 0.4402222766093261
+          },
+          {
+            "Time": 0.6140589569160998,
+            "ParameterValue": 0.6349675733082512
+          },
+          {
+            "Time": 0.6321995464852608,
+            "ParameterValue": 0.5224776559105249
+          },
+          {
+            "Time": 0.6535147392290249,
+            "ParameterValue": 0.5738996730819163
+          },
+          {
+            "Time": 0.6739229024943311,
+            "ParameterValue": 0.43914889696444437
+          },
+          {
+            "Time": 0.710204081632653,
+            "ParameterValue": 0.5044622758754492
+          },
+          {
+            "Time": 0.7106575963718821,
+            "ParameterValue": 0.607560934504292
+          },
+          {
+            "Time": 0.7356009070294784,
+            "ParameterValue": 0.6327458907737245
+          },
+          {
+            "Time": 0.763718820861678,
+            "ParameterValue": 0.43906513676732306
+          },
+          {
+            "Time": 0.764172335600907,
+            "ParameterValue": 0.5857825017861608
+          },
+          {
+            "Time": 0.7891156462585034,
+            "ParameterValue": 0.5147996540625669
+          },
+          {
+            "Time": 0.7909297052154195,
+            "ParameterValue": 0.7315393608006943
+          },
+          {
+            "Time": 0.8072562358276644,
+            "ParameterValue": 0.5925867935393585
+          },
+          {
+            "Time": 0.8263038548752835,
+            "ParameterValue": 0.6755308811577434
+          },
+          {
+            "Time": 0.8707482993197279,
+            "ParameterValue": 0.4777632234859108
+          },
+          {
+            "Time": 0.872562358276644,
+            "ParameterValue": 0.61569104426942
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 0.872562358276644,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 0.872562358276644,
+            "ParameterValue": 0.61569104426942
+          },
+          {
+            "Time": 0.9006802721088436,
+            "ParameterValue": 0.559406110418282
+          },
+          {
+            "Time": 0.9011337868480725,
+            "ParameterValue": 0.6939536826768183
+          },
+          {
+            "Time": 0.9224489795918368,
+            "ParameterValue": 0.5439486812666169
+          },
+          {
+            "Time": 0.9569160997732427,
+            "ParameterValue": 0.518520438580241
+          },
+          {
+            "Time": 0.9664399092970521,
+            "ParameterValue": 0.8064750684309849
+          },
+          {
+            "Time": 0.9823129251700681,
+            "ParameterValue": 0.6352871576534466
+          },
+          {
+            "Time": 1.0018140589569162,
+            "ParameterValue": 0.5336972228586921
+          },
+          {
+            "Time": 1.0031746031746032,
+            "ParameterValue": 0.7570432476867222
+          },
+          {
+            "Time": 1.0204081632653061,
+            "ParameterValue": 0.5921236317519267
+          },
+          {
+            "Time": 1.0399092970521542,
+            "ParameterValue": 0.5394217614138664
+          },
+          {
+            "Time": 1.052154195011338,
+            "ParameterValue": 0.8033690425179829
+          },
+          {
+            "Time": 1.0666666666666667,
+            "ParameterValue": 0.6442518201620782
+          },
+          {
+            "Time": 1.09297052154195,
+            "ParameterValue": 0.4892976985700172
+          },
+          {
+            "Time": 1.0970521541950113,
+            "ParameterValue": 0.7362464934949385
+          },
+          {
+            "Time": 1.1215419501133788,
+            "ParameterValue": 0.590495749605911
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 1.1215419501133788,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 1.1215419501133788,
+            "ParameterValue": 0.590495749605911
+          },
+          {
+            "Time": 1.1219954648526078,
+            "ParameterValue": 0.7065773495379265
+          },
+          {
+            "Time": 1.1428571428571428,
+            "ParameterValue": 0.6997557244417018
+          },
+          {
+            "Time": 1.1782312925170069,
+            "ParameterValue": 0.5148518265301564
+          },
+          {
+            "Time": 1.1854875283446713,
+            "ParameterValue": 0.8258201470414923
+          },
+          {
+            "Time": 1.1950113378684808,
+            "ParameterValue": 0.8516200317382857
+          },
+          {
+            "Time": 1.2394557823129253,
+            "ParameterValue": 0.5589990573581626
+          },
+          {
+            "Time": 1.272108843537415,
+            "ParameterValue": 0.5119214022322992
+          },
+          {
+            "Time": 1.2766439909297052,
+            "ParameterValue": 0.7617239102783441
+          },
+          {
+            "Time": 1.310204081632653,
+            "ParameterValue": 0.5694658744737012
+          },
+          {
+            "Time": 1.3138321995464852,
+            "ParameterValue": 0.7306249844614702
+          },
+          {
+            "Time": 1.3405895691609977,
+            "ParameterValue": 0.5052024208888194
+          },
+          {
+            "Time": 1.361904761904762,
+            "ParameterValue": 0.5911667282785529
+          },
+          {
+            "Time": 1.36281179138322,
+            "ParameterValue": 0.7821048029928578
+          },
+          {
+            "Time": 1.399092970521542,
+            "ParameterValue": 0.6117688805439885
+          },
+          {
+            "Time": 1.4031746031746033,
+            "ParameterValue": 0.7680146891307688
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 1.4031746031746033,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 1.4031746031746033,
+            "ParameterValue": 0.7680146891307688
+          },
+          {
+            "Time": 1.41859410430839,
+            "ParameterValue": 0.6293937605333676
+          },
+          {
+            "Time": 1.4448979591836735,
+            "ParameterValue": 0.5568731320938287
+          },
+          {
+            "Time": 1.4462585034013606,
+            "ParameterValue": 0.9294246809089888
+          },
+          {
+            "Time": 1.4607709750566893,
+            "ParameterValue": 0.7459192484884872
+          },
+          {
+            "Time": 1.4811791383219954,
+            "ParameterValue": 0.5868436903161471
+          },
+          {
+            "Time": 1.4843537414965986,
+            "ParameterValue": 0.781165297621904
+          },
+          {
+            "Time": 1.511111111111111,
+            "ParameterValue": 0.5734192291640585
+          },
+          {
+            "Time": 1.5115646258503401,
+            "ParameterValue": 0.7108252097306181
+          },
+          {
+            "Time": 1.528798185941043,
+            "ParameterValue": 0.5924023618453379
+          },
+          {
+            "Time": 1.5369614512471657,
+            "ParameterValue": 0.7986205908197594
+          },
+          {
+            "Time": 1.5564625850340137,
+            "ParameterValue": 0.6337021939265205
+          },
+          {
+            "Time": 1.5709750566893423,
+            "ParameterValue": 0.6093783199338362
+          },
+          {
+            "Time": 1.580045351473923,
+            "ParameterValue": 0.8189496883040871
+          },
+          {
+            "Time": 1.6,
+            "ParameterValue": 0.6156208809047604
+          },
+          {
+            "Time": 1.6448979591836734,
+            "ParameterValue": 0.59720030232645
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 1.6448979591836734,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 1.6448979591836734,
+            "ParameterValue": 0.59720030232645
+          },
+          {
+            "Time": 1.6458049886621315,
+            "ParameterValue": 0.7902801560120954
+          },
+          {
+            "Time": 1.672562358276644,
+            "ParameterValue": 0.6254859620977072
+          },
+          {
+            "Time": 1.6734693877551021,
+            "ParameterValue": 0.7611549660808609
+          },
+          {
+            "Time": 1.7047619047619047,
+            "ParameterValue": 0.6448389409904524
+          },
+          {
+            "Time": 1.7138321995464854,
+            "ParameterValue": 0.8914040147393981
+          },
+          {
+            "Time": 1.7392290249433107,
+            "ParameterValue": 0.6134919248475865
+          },
+          {
+            "Time": 1.7551020408163265,
+            "ParameterValue": 0.5546715807946044
+          },
+          {
+            "Time": 1.762358276643991,
+            "ParameterValue": 0.8355990477844573
+          },
+          {
+            "Time": 1.7718820861678004,
+            "ParameterValue": 0.9009485363657088
+          },
+          {
+            "Time": 1.7950113378684807,
+            "ParameterValue": 0.6711638908432366
+          },
+          {
+            "Time": 1.8149659863945578,
+            "ParameterValue": 0.6161327282969016
+          },
+          {
+            "Time": 1.8244897959183675,
+            "ParameterValue": 0.7294450052371279
+          },
+          {
+            "Time": 1.8435374149659864,
+            "ParameterValue": 0.5906746394909228
+          },
+          {
+            "Time": 1.853514739229025,
+            "ParameterValue": 0.7939768076579139
+          },
+          {
+            "Time": 1.871201814058957,
+            "ParameterValue": 0.6518305891316053
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 1.871201814058957,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 1.871201814058957,
+            "ParameterValue": 0.6518305891316053
+          },
+          {
+            "Time": 1.887528344671202,
+            "ParameterValue": 0.6930172216245041
+          },
+          {
+            "Time": 1.887981859410431,
+            "ParameterValue": 0.8975304839120525
+          },
+          {
+            "Time": 1.907482993197279,
+            "ParameterValue": 0.6763760469325467
+          },
+          {
+            "Time": 1.9301587301587302,
+            "ParameterValue": 0.5759517796444795
+          },
+          {
+            "Time": 1.9396825396825397,
+            "ParameterValue": 0.8317629416003639
+          },
+          {
+            "Time": 1.9560090702947845,
+            "ParameterValue": 0.6877106066713812
+          },
+          {
+            "Time": 1.9768707482993197,
+            "ParameterValue": 0.7827995037707064
+          },
+          {
+            "Time": 2,
+            "ParameterValue": 0.5563047457852658
+          },
+          {
+            "Time": 2.0226757369614514,
+            "ParameterValue": 0.6703570315493671
+          },
+          {
+            "Time": 2.0231292517006803,
+            "ParameterValue": 0.981085347292526
+          },
+          {
+            "Time": 2.048979591836735,
+            "ParameterValue": 0.6723198825825253
+          },
+          {
+            "Time": 2.0662131519274376,
+            "ParameterValue": 0.7406391533305801
+          },
+          {
+            "Time": 2.0843537414965985,
+            "ParameterValue": 0.5623250859556156
+          },
+          {
+            "Time": 2.109297052154195,
+            "ParameterValue": 0.5532551385475311
+          },
+          {
+            "Time": 2.1138321995464855,
+            "ParameterValue": 0.7918599089708449
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 2.1138321995464855,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 2.1138321995464855,
+            "ParameterValue": 0.7918599089708449
+          },
+          {
+            "Time": 2.1319727891156464,
+            "ParameterValue": 0.6516162888583963
+          },
+          {
+            "Time": 2.1519274376417235,
+            "ParameterValue": 0.7094688943128383
+          },
+          {
+            "Time": 2.1736961451247168,
+            "ParameterValue": 0.540930668603086
+          },
+          {
+            "Time": 2.2099773242630385,
+            "ParameterValue": 0.6094017086437209
+          },
+          {
+            "Time": 2.2104308390022678,
+            "ParameterValue": 0.730902282216728
+          },
+          {
+            "Time": 2.235374149659864,
+            "ParameterValue": 0.7559765823765285
+          },
+          {
+            "Time": 2.2634920634920634,
+            "ParameterValue": 0.5234656364060003
+          },
+          {
+            "Time": 2.2643990929705216,
+            "ParameterValue": 0.6924882399940243
+          },
+          {
+            "Time": 2.289342403628118,
+            "ParameterValue": 0.6021042673480131
+          },
+          {
+            "Time": 2.290702947845805,
+            "ParameterValue": 0.8502644782114434
+          },
+          {
+            "Time": 2.307482993197279,
+            "ParameterValue": 0.6897689132472444
+          },
+          {
+            "Time": 2.3256235827664398,
+            "ParameterValue": 0.6559093874275139
+          },
+          {
+            "Time": 2.326077097505669,
+            "ParameterValue": 0.7816521922143078
+          },
+          {
+            "Time": 2.349659863945578,
+            "ParameterValue": 0.6119833283632485
+          },
+          {
+            "Time": 2.3709750566893426,
+            "ParameterValue": 0.5469908726960737
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 2.3709750566893426,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 2.3709750566893426,
+            "ParameterValue": 0.5469908726960737
+          },
+          {
+            "Time": 2.3723356009070296,
+            "ParameterValue": 0.7030015272987461
+          },
+          {
+            "Time": 2.400907029478458,
+            "ParameterValue": 0.6346913858392452
+          },
+          {
+            "Time": 2.4013605442176873,
+            "ParameterValue": 0.7869024952889146
+          },
+          {
+            "Time": 2.456689342403628,
+            "ParameterValue": 0.5803890397728607
+          },
+          {
+            "Time": 2.4662131519274375,
+            "ParameterValue": 0.8992386904198657
+          },
+          {
+            "Time": 2.4798185941043083,
+            "ParameterValue": 0.7281149568742189
+          },
+          {
+            "Time": 2.5015873015873016,
+            "ParameterValue": 0.5920881110628861
+          },
+          {
+            "Time": 2.503401360544218,
+            "ParameterValue": 0.8341475689473001
+          },
+          {
+            "Time": 2.5206349206349206,
+            "ParameterValue": 0.6500206047999335
+          },
+          {
+            "Time": 2.540136054421769,
+            "ParameterValue": 0.590879990054495
+          },
+          {
+            "Time": 2.5405895691609977,
+            "ParameterValue": 0.7760213306347471
+          },
+          {
+            "Time": 2.5537414965986396,
+            "ParameterValue": 0.8738467901563504
+          },
+          {
+            "Time": 2.5732426303854874,
+            "ParameterValue": 0.6322099116519271
+          },
+          {
+            "Time": 2.5931972789115645,
+            "ParameterValue": 0.5307982540597047
+          },
+          {
+            "Time": 2.5972789115646258,
+            "ParameterValue": 0.8113751196509956
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 2.5972789115646258,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 2.5972789115646258,
+            "ParameterValue": 0.8113751196509956
+          },
+          {
+            "Time": 2.6217687074829934,
+            "ParameterValue": 0.6352584595520377
+          },
+          {
+            "Time": 2.6222222222222222,
+            "ParameterValue": 0.7718143927855918
+          },
+          {
+            "Time": 2.6430839002267574,
+            "ParameterValue": 0.7472960688150272
+          },
+          {
+            "Time": 2.6784580498866215,
+            "ParameterValue": 0.5479756076728963
+          },
+          {
+            "Time": 2.685714285714286,
+            "ParameterValue": 0.8769839510484091
+          },
+          {
+            "Time": 2.6952380952380954,
+            "ParameterValue": 0.9028131836136319
+          },
+          {
+            "Time": 2.7396825396825397,
+            "ParameterValue": 0.5872303544676019
+          },
+          {
+            "Time": 2.7718820861678006,
+            "ParameterValue": 0.5363945622648543
+          },
+          {
+            "Time": 2.7764172335600907,
+            "ParameterValue": 0.7955442351109464
+          },
+          {
+            "Time": 2.8099773242630386,
+            "ParameterValue": 0.593803582404513
+          },
+          {
+            "Time": 2.812698412698413,
+            "ParameterValue": 0.7593827713540569
+          },
+          {
+            "Time": 2.840816326530612,
+            "ParameterValue": 0.5235945955881167
+          },
+          {
+            "Time": 2.8621315192743766,
+            "ParameterValue": 0.6094620938346806
+          },
+          {
+            "Time": 2.8625850340136054,
+            "ParameterValue": 0.8065917966411976
+          },
+          {
+            "Time": 2.8770975056689343,
+            "ParameterValue": 0.6828932332310517
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 2.8770975056689343,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 2.8770975056689343,
+            "ParameterValue": 0.6828932332310517
+          },
+          {
+            "Time": 2.8993197278911564,
+            "ParameterValue": 0.6272674086076768
+          },
+          {
+            "Time": 2.902947845804989,
+            "ParameterValue": 0.7877291045052636
+          },
+          {
+            "Time": 2.923809523809524,
+            "ParameterValue": 0.6082408872446202
+          },
+          {
+            "Time": 2.944671201814059,
+            "ParameterValue": 0.569919997952245
+          },
+          {
+            "Time": 2.946485260770975,
+            "ParameterValue": 0.9497156001727909
+          },
+          {
+            "Time": 2.9668934240362814,
+            "ParameterValue": 0.6956247865725035
+          },
+          {
+            "Time": 2.98140589569161,
+            "ParameterValue": 0.5972732729633804
+          },
+          {
+            "Time": 2.984126984126984,
+            "ParameterValue": 0.7942046420213438
+          },
+          {
+            "Time": 3.0113378684807257,
+            "ParameterValue": 0.5800188293543512
+          },
+          {
+            "Time": 3.0117913832199545,
+            "ParameterValue": 0.7203576741228321
+          },
+          {
+            "Time": 3.0290249433106577,
+            "ParameterValue": 0.5986489914551493
+          },
+          {
+            "Time": 3.0371882086167803,
+            "ParameterValue": 0.8070910547964476
+          },
+          {
+            "Time": 3.0562358276643993,
+            "ParameterValue": 0.6413740266163951
+          },
+          {
+            "Time": 3.071201814058957,
+            "ParameterValue": 0.6132435897922265
+          },
+          {
+            "Time": 3.0802721088435376,
+            "ParameterValue": 0.8244652638935916
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 3.0802721088435376,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 3.0802721088435376,
+            "ParameterValue": 0.8244652638935916
+          },
+          {
+            "Time": 3.0997732426303855,
+            "ParameterValue": 0.6212681207376279
+          },
+          {
+            "Time": 3.145124716553288,
+            "ParameterValue": 0.595306430359851
+          },
+          {
+            "Time": 3.145578231292517,
+            "ParameterValue": 0.7892139064859643
+          },
+          {
+            "Time": 3.1727891156462587,
+            "ParameterValue": 0.6225076351969842
+          },
+          {
+            "Time": 3.1732426303854875,
+            "ParameterValue": 0.7582653915603559
+          },
+          {
+            "Time": 3.2049886621315196,
+            "ParameterValue": 0.6403479495698331
+          },
+          {
+            "Time": 3.2140589569160998,
+            "ParameterValue": 0.8866956889699709
+          },
+          {
+            "Time": 3.238548752834467,
+            "ParameterValue": 0.6152146276900938
+          },
+          {
+            "Time": 3.255328798185941,
+            "ParameterValue": 0.550145916502488
+          },
+          {
+            "Time": 3.2625850340136053,
+            "ParameterValue": 0.8273200871342212
+          },
+          {
+            "Time": 3.272108843537415,
+            "ParameterValue": 0.8913935931436511
+          },
+          {
+            "Time": 3.2947845804988662,
+            "ParameterValue": 0.6661194535632109
+          },
+          {
+            "Time": 3.3151927437641726,
+            "ParameterValue": 0.6089567454802977
+          },
+          {
+            "Time": 3.324263038548753,
+            "ParameterValue": 0.7189051486614969
+          },
+          {
+            "Time": 3.343764172335601,
+            "ParameterValue": 0.5820737041915445
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 3.343764172335601,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 3.343764172335601,
+            "ParameterValue": 0.5820737041915445
+          },
+          {
+            "Time": 3.3532879818594106,
+            "ParameterValue": 0.7889552007639503
+          },
+          {
+            "Time": 3.3714285714285714,
+            "ParameterValue": 0.6458701971057904
+          },
+          {
+            "Time": 3.3873015873015873,
+            "ParameterValue": 0.6888561983246357
+          },
+          {
+            "Time": 3.3895691609977323,
+            "ParameterValue": 0.8869596335088913
+          },
+          {
+            "Time": 3.4072562358276643,
+            "ParameterValue": 0.6717615885350307
+          },
+          {
+            "Time": 3.4303854875283446,
+            "ParameterValue": 0.5677382827355305
+          },
+          {
+            "Time": 3.4394557823129253,
+            "ParameterValue": 0.8243101692422937
+          },
+          {
+            "Time": 3.456235827664399,
+            "ParameterValue": 0.6799240362948572
+          },
+          {
+            "Time": 3.476643990929705,
+            "ParameterValue": 0.7805262419525815
+          },
+          {
+            "Time": 3.4979591836734696,
+            "ParameterValue": 0.5637602866139053
+          },
+          {
+            "Time": 3.5151927437641723,
+            "ParameterValue": 0.5247719277053778
+          },
+          {
+            "Time": 3.5229024943310656,
+            "ParameterValue": 0.664657008151808
+          },
+          {
+            "Time": 3.523356009070295,
+            "ParameterValue": 0.9729686048926316
+          },
+          {
+            "Time": 3.5396825396825395,
+            "ParameterValue": 0.7566564523695326
+          },
+          {
+            "Time": 3.5605442176870747,
+            "ParameterValue": 0.624463134135956
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 3.5605442176870747,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 3.5605442176870747,
+            "ParameterValue": 0.624463134135956
+          },
+          {
+            "Time": 3.5659863945578234,
+            "ParameterValue": 0.7337532013049032
+          },
+          {
+            "Time": 3.5927437641723357,
+            "ParameterValue": 0.5104854539969294
+          },
+          {
+            "Time": 3.6090702947845807,
+            "ParameterValue": 0.5469440919954519
+          },
+          {
+            "Time": 3.6140589569160997,
+            "ParameterValue": 0.7839457214822596
+          },
+          {
+            "Time": 3.632199546485261,
+            "ParameterValue": 0.6429721676838783
+          },
+          {
+            "Time": 3.653514739229025,
+            "ParameterValue": 0.6971615926017667
+          },
+          {
+            "Time": 3.673922902494331,
+            "ParameterValue": 0.532170843584164
+          },
+          {
+            "Time": 3.710204081632653,
+            "ParameterValue": 0.6032333851725162
+          },
+          {
+            "Time": 3.710657596371882,
+            "ParameterValue": 0.7248701364747858
+          },
+          {
+            "Time": 3.7356009070294784,
+            "ParameterValue": 0.7468990321730791
+          },
+          {
+            "Time": 3.763718820861678,
+            "ParameterValue": 0.516053409939509
+          },
+          {
+            "Time": 3.764172335600907,
+            "ParameterValue": 0.6840992669953816
+          },
+          {
+            "Time": 3.7891156462585034,
+            "ParameterValue": 0.5961423883102069
+          },
+          {
+            "Time": 3.7909297052154196,
+            "ParameterValue": 0.8455492132999926
+          },
+          {
+            "Time": 3.8072562358276643,
+            "ParameterValue": 0.6837900229294351
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 3.8072562358276643,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 3.8072562358276643,
+            "ParameterValue": 0.6837900229294351
+          },
+          {
+            "Time": 3.8258503401360544,
+            "ParameterValue": 0.6459451517704052
+          },
+          {
+            "Time": 3.8263038548752837,
+            "ParameterValue": 0.7715904502473668
+          },
+          {
+            "Time": 3.849433106575964,
+            "ParameterValue": 0.6066558823649142
+          },
+          {
+            "Time": 3.870748299319728,
+            "ParameterValue": 0.5417975660354407
+          },
+          {
+            "Time": 3.872562358276644,
+            "ParameterValue": 0.6961583152752373
+          },
+          {
+            "Time": 3.900680272108844,
+            "ParameterValue": 0.6285271886550919
+          },
+          {
+            "Time": 3.9011337868480727,
+            "ParameterValue": 0.7792332979070618
+          },
+          {
+            "Time": 3.9224489795918367,
+            "ParameterValue": 0.608964770420794
+          },
+          {
+            "Time": 3.9569160997732427,
+            "ParameterValue": 0.5733388032495824
+          },
+          {
+            "Time": 3.966439909297052,
+            "ParameterValue": 0.8873224368525672
+          },
+          {
+            "Time": 3.982312925170068,
+            "ParameterValue": 0.698078531045333
+          },
+          {
+            "Time": 4.001814058956916,
+            "ParameterValue": 0.5842192472404273
+          },
+          {
+            "Time": 4.003174603174603,
+            "ParameterValue": 0.8247045784735944
+          },
+          {
+            "Time": 4.020408163265306,
+            "ParameterValue": 0.6446083755519965
+          },
+          {
+            "Time": 4.039909297052154,
+            "ParameterValue": 0.5856289666094314
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 4.039909297052154,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 4.039909297052154,
+            "ParameterValue": 0.5856289666094314
+          },
+          {
+            "Time": 4.052154195011338,
+            "ParameterValue": 0.8695295482863585
+          },
+          {
+            "Time": 4.066666666666666,
+            "ParameterValue": 0.6968638882313932
+          },
+          {
+            "Time": 4.09297052154195,
+            "ParameterValue": 0.5262503689756473
+          },
+          {
+            "Time": 4.097052154195011,
+            "ParameterValue": 0.7865952998306418
+          },
+          {
+            "Time": 4.121541950113379,
+            "ParameterValue": 0.6291775264326049
+          },
+          {
+            "Time": 4.121995464852608,
+            "ParameterValue": 0.7511548345973001
+          },
+          {
+            "Time": 4.142857142857143,
+            "ParameterValue": 0.7400388149177869
+          },
+          {
+            "Time": 4.178231292517007,
+            "ParameterValue": 0.5427935339104679
+          },
+          {
+            "Time": 4.185487528344671,
+            "ParameterValue": 0.868923530180001
+          },
+          {
+            "Time": 4.195011337868481,
+            "ParameterValue": 0.8944920976523061
+          },
+          {
+            "Time": 4.239455782312925,
+            "ParameterValue": 0.5837313301774519
+          },
+          {
+            "Time": 4.272108843537415,
+            "ParameterValue": 0.5310857689445708
+          },
+          {
+            "Time": 4.276643990929705,
+            "ParameterValue": 0.7875607570151736
+          },
+          {
+            "Time": 4.310204081632653,
+            "ParameterValue": 0.5866350768474744
+          },
+          {
+            "Time": 4.313832199546486,
+            "ParameterValue": 0.752453946908143
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 4.313832199546486,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 4.313832199546486,
+            "ParameterValue": 0.752453946908143
+          },
+          {
+            "Time": 4.340589569160998,
+            "ParameterValue": 0.519584364715478
+          },
+          {
+            "Time": 4.361904761904762,
+            "ParameterValue": 0.6047286982661869
+          },
+          {
+            "Time": 4.36281179138322,
+            "ParameterValue": 0.7990240382809426
+          },
+          {
+            "Time": 4.377324263038549,
+            "ParameterValue": 0.6768116430651732
+          },
+          {
+            "Time": 4.399092970521542,
+            "ParameterValue": 0.6232422134027745
+          },
+          {
+            "Time": 4.4031746031746035,
+            "ParameterValue": 0.7820314867537637
+          },
+          {
+            "Time": 4.41859410430839,
+            "ParameterValue": 0.6405336677809013
+          },
+          {
+            "Time": 4.444897959183674,
+            "ParameterValue": 0.5647737158276175
+          },
+          {
+            "Time": 4.446258503401361,
+            "ParameterValue": 0.9422199006025312
+          },
+          {
+            "Time": 4.46077097505669,
+            "ParameterValue": 0.7559362948667618
+          },
+          {
+            "Time": 4.481179138321996,
+            "ParameterValue": 0.5937004679809448
+          },
+          {
+            "Time": 4.484353741496599,
+            "ParameterValue": 0.7880856767478628
+          },
+          {
+            "Time": 4.511111111111111,
+            "ParameterValue": 0.5770777247823604
+          },
+          {
+            "Time": 4.51156462585034,
+            "ParameterValue": 0.7149009770115458
+          },
+          {
+            "Time": 4.528798185941043,
+            "ParameterValue": 0.5951558083007068
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 4.528798185941043,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 4.528798185941043,
+            "ParameterValue": 0.5951558083007068
+          },
+          {
+            "Time": 4.536961451247166,
+            "ParameterValue": 0.8001595629047434
+          },
+          {
+            "Time": 4.556462585034014,
+            "ParameterValue": 0.6344846921307041
+          },
+          {
+            "Time": 4.570975056689343,
+            "ParameterValue": 0.6092070317700996
+          },
+          {
+            "Time": 4.580045351473923,
+            "ParameterValue": 0.8186663704002484
+          },
+          {
+            "Time": 4.6000000000000005,
+            "ParameterValue": 0.6149717774101815
+          },
+          {
+            "Time": 4.644897959183673,
+            "ParameterValue": 0.5914796506197845
+          },
+          {
+            "Time": 4.645804988662132,
+            "ParameterValue": 0.7827833121991185
+          },
+          {
+            "Time": 4.672562358276644,
+            "ParameterValue": 0.6184689688829927
+          },
+          {
+            "Time": 4.673469387755103,
+            "ParameterValue": 0.7521391123872299
+          },
+          {
+            "Time": 4.704761904761905,
+            "ParameterValue": 0.636699418716366
+          },
+          {
+            "Time": 4.713832199546485,
+            "ParameterValue": 0.8807767475448001
+          },
+          {
+            "Time": 4.73922902494331,
+            "ParameterValue": 0.6058334178410787
+          },
+          {
+            "Time": 4.755102040816326,
+            "ParameterValue": 0.5468571593306144
+          },
+          {
+            "Time": 4.771882086167801,
+            "ParameterValue": 0.8856743404752377
+          },
+          {
+            "Time": 4.79501133786848,
+            "ParameterValue": 0.6600637135187675
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 4.79501133786848,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 4.79501133786848,
+            "ParameterValue": 0.6600637135187675
+          },
+          {
+            "Time": 4.814965986394558,
+            "ParameterValue": 0.6060478314194261
+          },
+          {
+            "Time": 4.8244897959183675,
+            "ParameterValue": 0.7139107234877067
+          },
+          {
+            "Time": 4.848979591836735,
+            "ParameterValue": 0.5914601761719828
+          },
+          {
+            "Time": 4.853514739229025,
+            "ParameterValue": 0.7850680192859084
+          },
+          {
+            "Time": 4.871201814058957,
+            "ParameterValue": 0.64356301038422
+          },
+          {
+            "Time": 4.887528344671202,
+            "ParameterValue": 0.6821549471497229
+          },
+          {
+            "Time": 4.887981859410431,
+            "ParameterValue": 0.8834172135710034
+          },
+          {
+            "Time": 4.907482993197279,
+            "ParameterValue": 0.6649247624306202
+          },
+          {
+            "Time": 4.93015873015873,
+            "ParameterValue": 0.5645376052972907
+          },
+          {
+            "Time": 4.93968253968254,
+            "ParameterValue": 0.8188136370653034
+          },
+          {
+            "Time": 4.968253968253968,
+            "ParameterValue": 0.6618119639464518
+          },
+          {
+            "Time": 4.97687074829932,
+            "ParameterValue": 0.7742359209689227
+          },
+          {
+            "Time": 5,
+            "ParameterValue": 0.5489362183419488
+          },
+          {
+            "Time": 5.022675736961451,
+            "ParameterValue": 0.6608515050793985
+          },
+          {
+            "Time": 5.023129251700681,
+            "ParameterValue": 0.9674088032269615
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 5.023129251700681,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 5.023129251700681,
+            "ParameterValue": 0.9674088032269615
+          },
+          {
+            "Time": 5.048979591836734,
+            "ParameterValue": 0.662607238048749
+          },
+          {
+            "Time": 5.066213151927438,
+            "ParameterValue": 0.7276036628943503
+          },
+          {
+            "Time": 5.0843537414965985,
+            "ParameterValue": 0.5522041808788055
+          },
+          {
+            "Time": 5.109297052154195,
+            "ParameterValue": 0.543234935721977
+          },
+          {
+            "Time": 5.1138321995464855,
+            "ParameterValue": 0.7790333367939007
+          },
+          {
+            "Time": 5.131972789115647,
+            "ParameterValue": 0.6402713514285013
+          },
+          {
+            "Time": 5.1519274376417235,
+            "ParameterValue": 0.6951330258988639
+          },
+          {
+            "Time": 5.173696145124716,
+            "ParameterValue": 0.5304141307360685
+          },
+          {
+            "Time": 5.1945578231292515,
+            "ParameterValue": 0.5446390477646241
+          },
+          {
+            "Time": 5.210430839002267,
+            "ParameterValue": 0.7221196177698513
+          },
+          {
+            "Time": 5.235374149659864,
+            "ParameterValue": 0.7435642806317504
+          },
+          {
+            "Time": 5.2634920634920634,
+            "ParameterValue": 0.5148049221846983
+          },
+          {
+            "Time": 5.264399092970522,
+            "ParameterValue": 0.680866527942532
+          },
+          {
+            "Time": 5.289342403628118,
+            "ParameterValue": 0.591761243529437
+          },
+          {
+            "Time": 5.290702947845805,
+            "ParameterValue": 0.8360723834995926
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 5.290702947845805,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 5.290702947845805,
+            "ParameterValue": 0.8360723834995926
+          },
+          {
+            "Time": 5.307482993197279,
+            "ParameterValue": 0.6778805158313067
+          },
+          {
+            "Time": 5.32562358276644,
+            "ParameterValue": 0.6437693220859482
+          },
+          {
+            "Time": 5.326077097505669,
+            "ParameterValue": 0.7671582685750299
+          },
+          {
+            "Time": 5.349659863945578,
+            "ParameterValue": 0.6019535330720989
+          },
+          {
+            "Time": 5.370975056689343,
+            "ParameterValue": 0.5390729856943457
+          },
+          {
+            "Time": 5.3723356009070296,
+            "ParameterValue": 0.6935669506088628
+          },
+          {
+            "Time": 5.400907029478458,
+            "ParameterValue": 0.6265960895967357
+          },
+          {
+            "Time": 5.401360544217687,
+            "ParameterValue": 0.7767969033697919
+          },
+          {
+            "Time": 5.456689342403628,
+            "ParameterValue": 0.5711520115755501
+          },
+          {
+            "Time": 5.4662131519274375,
+            "ParameterValue": 0.8839500221025297
+          },
+          {
+            "Time": 5.479818594104309,
+            "ParameterValue": 0.7158234549843526
+          },
+          {
+            "Time": 5.501587301587302,
+            "ParameterValue": 0.5827557292410808
+          },
+          {
+            "Time": 5.503401360544218,
+            "ParameterValue": 0.8223585260874368
+          },
+          {
+            "Time": 5.520634920634921,
+            "ParameterValue": 0.6408455567950604
+          },
+          {
+            "Time": 5.540136054421769,
+            "ParameterValue": 0.5829969666887665
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 5.540136054421769,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 5.540136054421769,
+            "ParameterValue": 0.5829969666887665
+          },
+          {
+            "Time": 5.540589569160998,
+            "ParameterValue": 0.7663739961628339
+          },
+          {
+            "Time": 5.553741496598639,
+            "ParameterValue": 0.8636363340145604
+          },
+          {
+            "Time": 5.573242630385487,
+            "ParameterValue": 0.6247026154234243
+          },
+          {
+            "Time": 5.593197278911565,
+            "ParameterValue": 0.5236862903791681
+          },
+          {
+            "Time": 5.597278911564626,
+            "ParameterValue": 0.7985433224600893
+          },
+          {
+            "Time": 5.621768707482993,
+            "ParameterValue": 0.6252464196032906
+          },
+          {
+            "Time": 5.622222222222223,
+            "ParameterValue": 0.7599441727941628
+          },
+          {
+            "Time": 5.643083900226758,
+            "ParameterValue": 0.7351662570770714
+          },
+          {
+            "Time": 5.678458049886621,
+            "ParameterValue": 0.540328836295818
+          },
+          {
+            "Time": 5.685714285714286,
+            "ParameterValue": 0.8657921197468762
+          },
+          {
+            "Time": 5.695238095238095,
+            "ParameterValue": 0.8912795260441068
+          },
+          {
+            "Time": 5.73968253968254,
+            "ParameterValue": 0.5797729218387395
+          },
+          {
+            "Time": 5.771882086167801,
+            "ParameterValue": 0.5297717873098028
+          },
+          {
+            "Time": 5.776417233560091,
+            "ParameterValue": 0.7855713551198262
+          },
+          {
+            "Time": 5.809977324263039,
+            "ParameterValue": 0.5864788379469148
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 5.809977324263039,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 5.809977324263039,
+            "ParameterValue": 0.5864788379469148
+          },
+          {
+            "Time": 5.8126984126984125,
+            "ParameterValue": 0.7503933353726574
+          },
+          {
+            "Time": 5.840816326530613,
+            "ParameterValue": 0.5173547506576693
+          },
+          {
+            "Time": 5.862131519274376,
+            "ParameterValue": 0.6015243130083491
+          },
+          {
+            "Time": 5.862585034013605,
+            "ParameterValue": 0.7955444522387518
+          },
+          {
+            "Time": 5.877097505668934,
+            "ParameterValue": 0.6736150957093145
+          },
+          {
+            "Time": 5.899319727891156,
+            "ParameterValue": 0.6197383868702014
+          },
+          {
+            "Time": 5.902947845804989,
+            "ParameterValue": 0.7804048207698374
+          },
+          {
+            "Time": 5.923809523809524,
+            "ParameterValue": 0.6023347957670813
+          },
+          {
+            "Time": 5.944671201814059,
+            "ParameterValue": 0.563559065105836
+          },
+          {
+            "Time": 5.9464852607709755,
+            "ParameterValue": 0.9384834306764184
+          },
+          {
+            "Time": 5.966893424036281,
+            "ParameterValue": 0.687342268697499
+          },
+          {
+            "Time": 5.98140589569161,
+            "ParameterValue": 0.5903189723802812
+          },
+          {
+            "Time": 5.984126984126984,
+            "ParameterValue": 0.7857182448808809
+          },
+          {
+            "Time": 6.011337868480726,
+            "ParameterValue": 0.5739222343656171
+          },
+          {
+            "Time": 6.011791383219955,
+            "ParameterValue": 0.7127752968313795
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 6.011791383219955,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 6.011791383219955,
+            "ParameterValue": 0.7127752968313795
+          },
+          {
+            "Time": 6.029024943310658,
+            "ParameterValue": 0.5919617886439188
+          },
+          {
+            "Time": 6.03718820861678,
+            "ParameterValue": 0.7968851285399402
+          },
+          {
+            "Time": 6.056235827664399,
+            "ParameterValue": 0.6333012762227435
+          },
+          {
+            "Time": 6.071201814058957,
+            "ParameterValue": 0.6058798873397957
+          },
+          {
+            "Time": 6.080272108843538,
+            "ParameterValue": 0.8165187956433992
+          },
+          {
+            "Time": 6.099773242630386,
+            "ParameterValue": 0.6152400646643656
+          },
+          {
+            "Time": 6.145124716553288,
+            "ParameterValue": 0.5878191370231823
+          },
+          {
+            "Time": 6.145578231292517,
+            "ParameterValue": 0.7796860142034628
+          },
+          {
+            "Time": 6.172789115646259,
+            "ParameterValue": 0.6150407540363784
+          },
+          {
+            "Time": 6.173242630385488,
+            "ParameterValue": 0.749272855299997
+          },
+          {
+            "Time": 6.20498866213152,
+            "ParameterValue": 0.6331542807656588
+          },
+          {
+            "Time": 6.2140589569161,
+            "ParameterValue": 0.8776131886562413
+          },
+          {
+            "Time": 6.238548752834467,
+            "ParameterValue": 0.6089905193538436
+          },
+          {
+            "Time": 6.255328798185941,
+            "ParameterValue": 0.5448262158661664
+          },
+          {
+            "Time": 6.272108843537415,
+            "ParameterValue": 0.8834061276733034
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 6.272108843537415,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 6.272108843537415,
+            "ParameterValue": 0.8834061276733034
+          },
+          {
+            "Time": 6.294784580498867,
+            "ParameterValue": 0.6598237896099565
+          },
+          {
+            "Time": 6.315192743764173,
+            "ParameterValue": 0.6022425117793113
+          },
+          {
+            "Time": 6.324263038548753,
+            "ParameterValue": 0.7114105269503773
+          },
+          {
+            "Time": 6.343764172335601,
+            "ParameterValue": 0.5766634895924173
+          },
+          {
+            "Time": 6.353287981859411,
+            "ParameterValue": 0.7840567698406004
+          },
+          {
+            "Time": 6.371428571428572,
+            "ParameterValue": 0.6413142804204189
+          },
+          {
+            "Time": 6.387301587301588,
+            "ParameterValue": 0.6817203539079897
+          },
+          {
+            "Time": 6.389569160997732,
+            "ParameterValue": 0.8776520883776094
+          },
+          {
+            "Time": 6.407256235827664,
+            "ParameterValue": 0.6648073364701516
+          },
+          {
+            "Time": 6.430385487528345,
+            "ParameterValue": 0.5621232190143964
+          },
+          {
+            "Time": 6.439455782312925,
+            "ParameterValue": 0.8161510195216376
+          },
+          {
+            "Time": 6.4562358276644,
+            "ParameterValue": 0.6734284402034422
+          },
+          {
+            "Time": 6.4766439909297056,
+            "ParameterValue": 0.775051457907921
+          },
+          {
+            "Time": 6.497959183673469,
+            "ParameterValue": 0.5597472505929693
+          },
+          {
+            "Time": 6.515192743764173,
+            "ParameterValue": 0.5206229337409138
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 6.515192743764173,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 6.515192743764173,
+            "ParameterValue": 0.5206229337409138
+          },
+          {
+            "Time": 6.522902494331066,
+            "ParameterValue": 0.6587168894392137
+          },
+          {
+            "Time": 6.523356009070295,
+            "ParameterValue": 0.964365293906673
+          },
+          {
+            "Time": 6.5396825396825395,
+            "ParameterValue": 0.7498731394512477
+          },
+          {
+            "Time": 6.560544217687075,
+            "ParameterValue": 0.6181775981541898
+          },
+          {
+            "Time": 6.565986394557823,
+            "ParameterValue": 0.7260641343557634
+          },
+          {
+            "Time": 6.592743764172336,
+            "ParameterValue": 0.5055336285643336
+          },
+          {
+            "Time": 6.609070294784581,
+            "ParameterValue": 0.5424658575897016
+          },
+          {
+            "Time": 6.6140589569161,
+            "ParameterValue": 0.7766187813480581
+          },
+          {
+            "Time": 6.6321995464852606,
+            "ParameterValue": 0.6369333857856058
+          },
+          {
+            "Time": 6.653514739229025,
+            "ParameterValue": 0.6905471411588805
+          },
+          {
+            "Time": 6.673922902494331,
+            "ParameterValue": 0.5275205921310204
+          },
+          {
+            "Time": 6.694784580498866,
+            "ParameterValue": 0.5430858062625626
+          },
+          {
+            "Time": 6.710657596371882,
+            "ParameterValue": 0.7215199189520816
+          },
+          {
+            "Time": 6.735600907029479,
+            "ParameterValue": 0.7425084722854264
+          },
+          {
+            "Time": 6.763718820861678,
+            "ParameterValue": 0.5128360578851057
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 6.763718820861678,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 6.763718820861678,
+            "ParameterValue": 0.5128360578851057
+          },
+          {
+            "Time": 6.764172335600907,
+            "ParameterValue": 0.6795953712593614
+          },
+          {
+            "Time": 6.789115646258503,
+            "ParameterValue": 0.5907944980139368
+          },
+          {
+            "Time": 6.79092970521542,
+            "ParameterValue": 0.8381084501364291
+          },
+          {
+            "Time": 6.807256235827665,
+            "ParameterValue": 0.6777611873325853
+          },
+          {
+            "Time": 6.825850340136054,
+            "ParameterValue": 0.6405904196113448
+          },
+          {
+            "Time": 6.826303854875284,
+            "ParameterValue": 0.7653434187971776
+          },
+          {
+            "Time": 6.8494331065759635,
+            "ParameterValue": 0.6024276775256198
+          },
+          {
+            "Time": 6.870748299319728,
+            "ParameterValue": 0.5389437279290591
+          },
+          {
+            "Time": 6.872562358276644,
+            "ParameterValue": 0.6928241670864306
+          },
+          {
+            "Time": 6.900680272108843,
+            "ParameterValue": 0.6263614773050556
+          },
+          {
+            "Time": 6.901133786848073,
+            "ParameterValue": 0.7764057028741319
+          },
+          {
+            "Time": 6.922448979591837,
+            "ParameterValue": 0.6062843925372149
+          },
+          {
+            "Time": 6.956916099773243,
+            "ParameterValue": 0.5694211111791322
+          },
+          {
+            "Time": 6.966439909297052,
+            "ParameterValue": 0.8801932598124946
+          },
+          {
+            "Time": 6.982312925170068,
+            "ParameterValue": 0.6926806364596102
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 6.982312925170068,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 6.982312925170068,
+            "ParameterValue": 0.6926806364596102
+          },
+          {
+            "Time": 7.001814058956916,
+            "ParameterValue": 0.5807480774871262
+          },
+          {
+            "Time": 7.003174603174603,
+            "ParameterValue": 0.821984041437184
+          },
+          {
+            "Time": 7.020408163265306,
+            "ParameterValue": 0.6422878043377683
+          },
+          {
+            "Time": 7.039909297052154,
+            "ParameterValue": 0.5828855862100905
+          },
+          {
+            "Time": 7.0521541950113384,
+            "ParameterValue": 0.8667378020055915
+          },
+          {
+            "Time": 7.066666666666666,
+            "ParameterValue": 0.6945895274496832
+          },
+          {
+            "Time": 7.09297052154195,
+            "ParameterValue": 0.5236299673943926
+          },
+          {
+            "Time": 7.097052154195011,
+            "ParameterValue": 0.7808301625492139
+          },
+          {
+            "Time": 7.121541950113379,
+            "ParameterValue": 0.6244427955680297
+          },
+          {
+            "Time": 7.121995464852608,
+            "ParameterValue": 0.7456647113144559
+          },
+          {
+            "Time": 7.142857142857143,
+            "ParameterValue": 0.7340279325426707
+          },
+          {
+            "Time": 7.178231292517007,
+            "ParameterValue": 0.5394050480058618
+          },
+          {
+            "Time": 7.185487528344671,
+            "ParameterValue": 0.8645968299895499
+          },
+          {
+            "Time": 7.195011337868481,
+            "ParameterValue": 0.8900046135336471
+          },
+          {
+            "Time": 7.239455782312925,
+            "ParameterValue": 0.5808953006346913
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 7.239455782312925,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 7.239455782312925,
+            "ParameterValue": 0.5808953006346913
+          },
+          {
+            "Time": 7.272108843537415,
+            "ParameterValue": 0.5286912694994806
+          },
+          {
+            "Time": 7.276643990929705,
+            "ParameterValue": 0.7854486575929315
+          },
+          {
+            "Time": 7.310204081632653,
+            "ParameterValue": 0.584999759475775
+          },
+          {
+            "Time": 7.313832199546486,
+            "ParameterValue": 0.7501239672603978
+          },
+          {
+            "Time": 7.340589569160998,
+            "ParameterValue": 0.517593051195844
+          },
+          {
+            "Time": 7.361904761904762,
+            "ParameterValue": 0.6010485970877844
+          },
+          {
+            "Time": 7.36281179138322,
+            "ParameterValue": 0.7936353630363814
+          },
+          {
+            "Time": 7.377324263038549,
+            "ParameterValue": 0.6720274731545632
+          },
+          {
+            "Time": 7.399092970521542,
+            "ParameterValue": 0.6201794787059468
+          },
+          {
+            "Time": 7.4031746031746035,
+            "ParameterValue": 0.7803080929924635
+          },
+          {
+            "Time": 7.41859410430839,
+            "ParameterValue": 0.6389354844387184
+          },
+          {
+            "Time": 7.444897959183674,
+            "ParameterValue": 0.5621199319636513
+          },
+          {
+            "Time": 7.446258503401361,
+            "ParameterValue": 0.9364849842352184
+          },
+          {
+            "Time": 7.46077097505669,
+            "ParameterValue": 0.7512306438173109
+          },
+          {
+            "Time": 7.481179138321996,
+            "ParameterValue": 0.5902521081681408
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 7.481179138321996,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 7.481179138321996,
+            "ParameterValue": 0.5902521081681408
+          },
+          {
+            "Time": 7.484353741496599,
+            "ParameterValue": 0.784735365122053
+          },
+          {
+            "Time": 7.511111111111111,
+            "ParameterValue": 0.574639668862187
+          },
+          {
+            "Time": 7.51156462585034,
+            "ParameterValue": 0.711907824383016
+          },
+          {
+            "Time": 7.528798185941043,
+            "ParameterValue": 0.5922726198506597
+          },
+          {
+            "Time": 7.536961451247166,
+            "ParameterValue": 0.7950897707086418
+          },
+          {
+            "Time": 7.570975056689343,
+            "ParameterValue": 0.6056650157538274
+          },
+          {
+            "Time": 7.580045351473923,
+            "ParameterValue": 0.8158086617046548
+          },
+          {
+            "Time": 7.6000000000000005,
+            "ParameterValue": 0.6127674822288878
+          },
+          {
+            "Time": 7.644897959183673,
+            "ParameterValue": 0.5875272386018755
+          },
+          {
+            "Time": 7.645804988662132,
+            "ParameterValue": 0.7779358543322394
+          },
+          {
+            "Time": 7.672562358276644,
+            "ParameterValue": 0.6146983802653861
+          },
+          {
+            "Time": 7.673469387755103,
+            "ParameterValue": 0.7477170112653473
+          },
+          {
+            "Time": 7.704761904761905,
+            "ParameterValue": 0.6329467959639398
+          },
+          {
+            "Time": 7.713832199546485,
+            "ParameterValue": 0.8757942306509442
+          },
+          {
+            "Time": 7.73922902494331,
+            "ParameterValue": 0.6024875858031196
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 7.73922902494331,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 7.73922902494331,
+            "ParameterValue": 0.6024875858031196
+          },
+          {
+            "Time": 7.755102040816326,
+            "ParameterValue": 0.5442562786522941
+          },
+          {
+            "Time": 7.771882086167801,
+            "ParameterValue": 0.8825020566677
+          },
+          {
+            "Time": 7.795011337868481,
+            "ParameterValue": 0.6572998766789557
+          },
+          {
+            "Time": 7.814965986394558,
+            "ParameterValue": 0.6023284579786523
+          },
+          {
+            "Time": 7.8244897959183675,
+            "ParameterValue": 0.7100511847031026
+          },
+          {
+            "Time": 7.848979591836735,
+            "ParameterValue": 0.5895984033561983
+          },
+          {
+            "Time": 7.853514739229025,
+            "ParameterValue": 0.7842692175754361
+          },
+          {
+            "Time": 7.871201814058957,
+            "ParameterValue": 0.6423629509198665
+          },
+          {
+            "Time": 7.887528344671202,
+            "ParameterValue": 0.6785184338330791
+          },
+          {
+            "Time": 7.887981859410431,
+            "ParameterValue": 0.8785605434591001
+          },
+          {
+            "Time": 7.907482993197279,
+            "ParameterValue": 0.6613293147604669
+          },
+          {
+            "Time": 7.93015873015873,
+            "ParameterValue": 0.5619404034535502
+          },
+          {
+            "Time": 7.93968253968254,
+            "ParameterValue": 0.8161313822047986
+          },
+          {
+            "Time": 7.956462585034013,
+            "ParameterValue": 0.6762401808537849
+          },
+          {
+            "Time": 7.97687074829932,
+            "ParameterValue": 0.7710167272834854
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 7.97687074829932,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 7.97687074829932,
+            "ParameterValue": 0.7710167272834854
+          },
+          {
+            "Time": 8,
+            "ParameterValue": 0.5467449227513432
+          },
+          {
+            "Time": 8.022675736961451,
+            "ParameterValue": 0.6574396403109724
+          },
+          {
+            "Time": 8.02312925170068,
+            "ParameterValue": 0.9626821697551697
+          },
+          {
+            "Time": 8.048979591836735,
+            "ParameterValue": 0.6592452561398877
+          },
+          {
+            "Time": 8.066213151927437,
+            "ParameterValue": 0.7232555964546287
+          },
+          {
+            "Time": 8.0843537414966,
+            "ParameterValue": 0.5491581703099402
+          },
+          {
+            "Time": 8.109297052154195,
+            "ParameterValue": 0.541207439635478
+          },
+          {
+            "Time": 8.113832199546485,
+            "ParameterValue": 0.7751889164044469
+          },
+          {
+            "Time": 8.131972789115647,
+            "ParameterValue": 0.63710760479534
+          },
+          {
+            "Time": 8.151927437641724,
+            "ParameterValue": 0.6919613295360988
+          },
+          {
+            "Time": 8.173696145124717,
+            "ParameterValue": 0.5282828574897298
+          },
+          {
+            "Time": 8.209977324263038,
+            "ParameterValue": 0.6022400478878748
+          },
+          {
+            "Time": 8.210430839002267,
+            "ParameterValue": 0.7216839148306803
+          },
+          {
+            "Time": 8.235374149659863,
+            "ParameterValue": 0.7428232232817564
+          },
+          {
+            "Time": 8.263492063492064,
+            "ParameterValue": 0.5139408725201466
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticIntensityControl",
+        "Time": 8.263492063492064,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 8.263492063492064,
+            "ParameterValue": 0.5139408725201466
+          },
+          {
+            "Time": 8.264399092970521,
+            "ParameterValue": 0.6790787935154733
+          },
+          {
+            "Time": 8.289342403628119,
+            "ParameterValue": 0.5887436855372792
+          },
+          {
+            "Time": 8.290702947845805,
+            "ParameterValue": 0.8320151398058188
+          },
+          {
+            "Time": 8.326530612244898,
+            "ParameterValue": 0.4499781003839776
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticSharpnessControl",
+        "Time": 0,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 0,
+            "ParameterValue": 0.06844945061648579
+          },
+          {
+            "Time": 0.0009070294784580499,
+            "ParameterValue": 0.3698054123975975
+          },
+          {
+            "Time": 0.07120181405895691,
+            "ParameterValue": 0.2820818662828263
+          },
+          {
+            "Time": 0.20498866213151928,
+            "ParameterValue": 0.3416825605459285
+          },
+          {
+            "Time": 0.21405895691609977,
+            "ParameterValue": 0.4399901431737254
+          },
+          {
+            "Time": 0.26031746031746034,
+            "ParameterValue": 0.33894691948151395
+          },
+          {
+            "Time": 0.272108843537415,
+            "ParameterValue": 0.4623048540430205
+          },
+          {
+            "Time": 0.3487528344671202,
+            "ParameterValue": 0.34814083955114794
+          },
+          {
+            "Time": 0.38820861678004537,
+            "ParameterValue": 0.48847115828944077
+          },
+          {
+            "Time": 0.4312925170068027,
+            "ParameterValue": 0.3762248988164843
+          },
+          {
+            "Time": 0.4394557823129252,
+            "ParameterValue": 0.4740090166620701
+          },
+          {
+            "Time": 0.5229024943310657,
+            "ParameterValue": 0.40723441208455075
+          },
+          {
+            "Time": 0.5233560090702948,
+            "ParameterValue": 0.5636033213226922
+          },
+          {
+            "Time": 0.5492063492063493,
+            "ParameterValue": 0.466063043306985
+          },
+          {
+            "Time": 0.6090702947845805,
+            "ParameterValue": 0.3719891987319073
+          },
+          {
+            "Time": 0.6140589569160998,
+            "ParameterValue": 0.4833857537955428
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticSharpnessControl",
+        "Time": 0.6140589569160998,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 0.6140589569160998,
+            "ParameterValue": 0.4833857537955428
+          },
+          {
+            "Time": 0.6947845804988663,
+            "ParameterValue": 0.3792258366264607
+          },
+          {
+            "Time": 0.7356009070294784,
+            "ParameterValue": 0.49751828435264667
+          },
+          {
+            "Time": 0.7895691609977324,
+            "ParameterValue": 0.42866222974749907
+          },
+          {
+            "Time": 0.7909297052154195,
+            "ParameterValue": 0.5690566148885842
+          },
+          {
+            "Time": 0.8712018140589569,
+            "ParameterValue": 0.42700411639134817
+          },
+          {
+            "Time": 0.9024943310657596,
+            "ParameterValue": 0.538819265687604
+          },
+          {
+            "Time": 0.9569160997732427,
+            "ParameterValue": 0.4457758803955071
+          },
+          {
+            "Time": 0.9650793650793651,
+            "ParameterValue": 0.6340384231202414
+          },
+          {
+            "Time": 1.002721088435374,
+            "ParameterValue": 0.5018585226279922
+          },
+          {
+            "Time": 1.0399092970521542,
+            "ParameterValue": 0.4757185435067486
+          },
+          {
+            "Time": 1.052154195011338,
+            "ParameterValue": 0.6354517923907831
+          },
+          {
+            "Time": 1.0965986394557823,
+            "ParameterValue": 0.4684578670991545
+          },
+          {
+            "Time": 1.1351473922902495,
+            "ParameterValue": 0.5908825846451856
+          },
+          {
+            "Time": 1.183219954648526,
+            "ParameterValue": 0.46744437809027367
+          },
+          {
+            "Time": 1.1950113378684808,
+            "ParameterValue": 0.6741912770716713
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticSharpnessControl",
+        "Time": 1.1950113378684808,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 1.1950113378684808,
+            "ParameterValue": 0.6741912770716713
+          },
+          {
+            "Time": 1.2530612244897958,
+            "ParameterValue": 0.4583689745583384
+          },
+          {
+            "Time": 1.2766439909297052,
+            "ParameterValue": 0.5897317216658198
+          },
+          {
+            "Time": 1.310204081632653,
+            "ParameterValue": 0.49491774620362033
+          },
+          {
+            "Time": 1.361904761904762,
+            "ParameterValue": 0.4878579450802997
+          },
+          {
+            "Time": 1.36281179138322,
+            "ParameterValue": 0.6000249589839335
+          },
+          {
+            "Time": 1.4031746031746033,
+            "ParameterValue": 0.5987804405188791
+          },
+          {
+            "Time": 1.4448979591836735,
+            "ParameterValue": 0.48340558717302773
+          },
+          {
+            "Time": 1.4476190476190476,
+            "ParameterValue": 0.7002078709408961
+          },
+          {
+            "Time": 1.5333333333333334,
+            "ParameterValue": 0.49900933546020065
+          },
+          {
+            "Time": 1.5369614512471657,
+            "ParameterValue": 0.6076056758211605
+          },
+          {
+            "Time": 1.5709750566893423,
+            "ParameterValue": 0.523923860983037
+          },
+          {
+            "Time": 1.580045351473923,
+            "ParameterValue": 0.643165368617907
+          },
+          {
+            "Time": 1.6235827664399094,
+            "ParameterValue": 0.49449822234736807
+          },
+          {
+            "Time": 1.6458049886621315,
+            "ParameterValue": 0.6032136693596473
+          },
+          {
+            "Time": 1.7047619047619047,
+            "ParameterValue": 0.5593787669474023
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticSharpnessControl",
+        "Time": 1.7047619047619047,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 1.7047619047619047,
+            "ParameterValue": 0.5593787669474023
+          },
+          {
+            "Time": 1.7151927437641723,
+            "ParameterValue": 0.7020691172115432
+          },
+          {
+            "Time": 1.7600907029478459,
+            "ParameterValue": 0.5293681074090428
+          },
+          {
+            "Time": 1.7718820861678004,
+            "ParameterValue": 0.7061261106914497
+          },
+          {
+            "Time": 1.7950113378684807,
+            "ParameterValue": 0.6060764862310277
+          },
+          {
+            "Time": 1.8489795918367347,
+            "ParameterValue": 0.5082291816423294
+          },
+          {
+            "Time": 1.853514739229025,
+            "ParameterValue": 0.6210242296316578
+          },
+          {
+            "Time": 1.887528344671202,
+            "ParameterValue": 0.5630030840432488
+          },
+          {
+            "Time": 1.887981859410431,
+            "ParameterValue": 0.6849235956238193
+          },
+          {
+            "Time": 1.9310657596371883,
+            "ParameterValue": 0.5235986048046674
+          },
+          {
+            "Time": 1.9396825396825397,
+            "ParameterValue": 0.6451201245887602
+          },
+          {
+            "Time": 2.0226757369614514,
+            "ParameterValue": 0.5309470445889132
+          },
+          {
+            "Time": 2.024489795918367,
+            "ParameterValue": 0.734292175945735
+          },
+          {
+            "Time": 2.0603174603174605,
+            "ParameterValue": 0.5606729578809366
+          },
+          {
+            "Time": 2.109297052154195,
+            "ParameterValue": 0.4698632061231544
+          },
+          {
+            "Time": 2.1138321995464855,
+            "ParameterValue": 0.6031773870958694
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticSharpnessControl",
+        "Time": 2.1138321995464855,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 2.1138321995464855,
+            "ParameterValue": 0.6031773870958694
+          },
+          {
+            "Time": 2.198639455782313,
+            "ParameterValue": 0.4728642247763941
+          },
+          {
+            "Time": 2.222675736961451,
+            "ParameterValue": 0.5943332417717091
+          },
+          {
+            "Time": 2.289342403628118,
+            "ParameterValue": 0.5003718790263254
+          },
+          {
+            "Time": 2.2911564625850342,
+            "ParameterValue": 0.6651937526524124
+          },
+          {
+            "Time": 2.3718820861678007,
+            "ParameterValue": 0.4939376702018891
+          },
+          {
+            "Time": 2.4013605442176873,
+            "ParameterValue": 0.6114524901260066
+          },
+          {
+            "Time": 2.456689342403628,
+            "ParameterValue": 0.5004701915823636
+          },
+          {
+            "Time": 2.4648526077097506,
+            "ParameterValue": 0.7060578718796859
+          },
+          {
+            "Time": 2.5024943310657597,
+            "ParameterValue": 0.5556413636682946
+          },
+          {
+            "Time": 2.503401360544218,
+            "ParameterValue": 0.6471572653020412
+          },
+          {
+            "Time": 2.540136054421769,
+            "ParameterValue": 0.5228567259404516
+          },
+          {
+            "Time": 2.5523809523809526,
+            "ParameterValue": 0.6940932367671501
+          },
+          {
+            "Time": 2.596825396825397,
+            "ParameterValue": 0.5095208546313934
+          },
+          {
+            "Time": 2.6426303854875286,
+            "ParameterValue": 0.6137707673032451
+          },
+          {
+            "Time": 2.6834467120181404,
+            "ParameterValue": 0.4979484479136696
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticSharpnessControl",
+        "Time": 2.6834467120181404,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 2.6834467120181404,
+            "ParameterValue": 0.4979484479136696
+          },
+          {
+            "Time": 2.6952380952380954,
+            "ParameterValue": 0.7149544771982833
+          },
+          {
+            "Time": 2.7532879818594105,
+            "ParameterValue": 0.4796827680535442
+          },
+          {
+            "Time": 2.7777777777777777,
+            "ParameterValue": 0.6158575907912035
+          },
+          {
+            "Time": 2.840816326530612,
+            "ParameterValue": 0.4866270418234179
+          },
+          {
+            "Time": 2.8625850340136054,
+            "ParameterValue": 0.6189047631600204
+          },
+          {
+            "Time": 2.9034013605442177,
+            "ParameterValue": 0.614352198073105
+          },
+          {
+            "Time": 2.944671201814059,
+            "ParameterValue": 0.49559264623343763
+          },
+          {
+            "Time": 2.946485260770975,
+            "ParameterValue": 0.7158298580050482
+          },
+          {
+            "Time": 3.033106575963719,
+            "ParameterValue": 0.5062316098283142
+          },
+          {
+            "Time": 3.0371882086167803,
+            "ParameterValue": 0.6142368043312717
+          },
+          {
+            "Time": 3.071201814058957,
+            "ParameterValue": 0.5281063307013772
+          },
+          {
+            "Time": 3.0802721088435376,
+            "ParameterValue": 0.647887379716397
+          },
+          {
+            "Time": 3.104308390022676,
+            "ParameterValue": 0.5435489675337543
+          },
+          {
+            "Time": 3.145124716553288,
+            "ParameterValue": 0.5009450458225914
+          },
+          {
+            "Time": 3.145578231292517,
+            "ParameterValue": 0.6024767827424302
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticSharpnessControl",
+        "Time": 3.145578231292517,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 3.145578231292517,
+            "ParameterValue": 0.6024767827424302
+          },
+          {
+            "Time": 3.2049886621315196,
+            "ParameterValue": 0.5561335085763969
+          },
+          {
+            "Time": 3.2140589569160998,
+            "ParameterValue": 0.6984383345447269
+          },
+          {
+            "Time": 3.2603174603174603,
+            "ParameterValue": 0.5247248919962799
+          },
+          {
+            "Time": 3.272108843537415,
+            "ParameterValue": 0.698736694423112
+          },
+          {
+            "Time": 3.2952380952380955,
+            "ParameterValue": 0.5990541681342924
+          },
+          {
+            "Time": 3.3487528344671205,
+            "ParameterValue": 0.5016945623959396
+          },
+          {
+            "Time": 3.3546485260770975,
+            "ParameterValue": 0.6167797297699106
+          },
+          {
+            "Time": 3.3873015873015873,
+            "ParameterValue": 0.5587743192642266
+          },
+          {
+            "Time": 3.3882086167800454,
+            "ParameterValue": 0.6789330605622567
+          },
+          {
+            "Time": 3.4312925170068027,
+            "ParameterValue": 0.5135931118956664
+          },
+          {
+            "Time": 3.4394557823129253,
+            "ParameterValue": 0.6391633760611103
+          },
+          {
+            "Time": 3.5229024943310656,
+            "ParameterValue": 0.5274760543547161
+          },
+          {
+            "Time": 3.523356009070295,
+            "ParameterValue": 0.7283772530199903
+          },
+          {
+            "Time": 3.5605442176870747,
+            "ParameterValue": 0.5548615618453105
+          },
+          {
+            "Time": 3.6090702947845807,
+            "ParameterValue": 0.4644612099824476
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticSharpnessControl",
+        "Time": 3.6090702947845807,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 3.6090702947845807,
+            "ParameterValue": 0.4644612099824476
+          },
+          {
+            "Time": 3.6140589569160997,
+            "ParameterValue": 0.5970905839081174
+          },
+          {
+            "Time": 3.694784580498866,
+            "ParameterValue": 0.4561052731172014
+          },
+          {
+            "Time": 3.7356009070294784,
+            "ParameterValue": 0.5883840474989743
+          },
+          {
+            "Time": 3.7895691609977327,
+            "ParameterValue": 0.4977001035233821
+          },
+          {
+            "Time": 3.7909297052154196,
+            "ParameterValue": 0.6578810476370435
+          },
+          {
+            "Time": 3.8258503401360544,
+            "ParameterValue": 0.542573155847795
+          },
+          {
+            "Time": 3.871201814058957,
+            "ParameterValue": 0.48584457153411714
+          },
+          {
+            "Time": 3.9024943310657596,
+            "ParameterValue": 0.6053290579771734
+          },
+          {
+            "Time": 3.9569160997732427,
+            "ParameterValue": 0.49468759092464193
+          },
+          {
+            "Time": 3.965079365079365,
+            "ParameterValue": 0.6977796776775845
+          },
+          {
+            "Time": 4.002721088435374,
+            "ParameterValue": 0.5484867371207421
+          },
+          {
+            "Time": 4.003174603174603,
+            "ParameterValue": 0.639796260863456
+          },
+          {
+            "Time": 4.039909297052154,
+            "ParameterValue": 0.51758028512918
+          },
+          {
+            "Time": 4.052154195011338,
+            "ParameterValue": 0.6879131439324613
+          },
+          {
+            "Time": 4.096598639455783,
+            "ParameterValue": 0.5053208676441876
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticSharpnessControl",
+        "Time": 4.096598639455783,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 4.096598639455783,
+            "ParameterValue": 0.5053208676441876
+          },
+          {
+            "Time": 4.135147392290249,
+            "ParameterValue": 0.6264979264922886
+          },
+          {
+            "Time": 4.183219954648526,
+            "ParameterValue": 0.49326299281608116
+          },
+          {
+            "Time": 4.195011337868481,
+            "ParameterValue": 0.7083589347195637
+          },
+          {
+            "Time": 4.248979591836735,
+            "ParameterValue": 0.4890994335736511
+          },
+          {
+            "Time": 4.272108843537415,
+            "ParameterValue": 0.44670123387919713
+          },
+          {
+            "Time": 4.276643990929705,
+            "ParameterValue": 0.6098997812221153
+          },
+          {
+            "Time": 4.340589569160998,
+            "ParameterValue": 0.48270698222733555
+          },
+          {
+            "Time": 4.36281179138322,
+            "ParameterValue": 0.6131239772948667
+          },
+          {
+            "Time": 4.4031746031746035,
+            "ParameterValue": 0.6097917882093703
+          },
+          {
+            "Time": 4.444897959183674,
+            "ParameterValue": 0.49147534353138017
+          },
+          {
+            "Time": 4.447619047619048,
+            "ParameterValue": 0.7099157990448838
+          },
+          {
+            "Time": 4.533333333333333,
+            "ParameterValue": 0.5017528941324741
+          },
+          {
+            "Time": 4.536961451247166,
+            "ParameterValue": 0.608997947959935
+          },
+          {
+            "Time": 4.570975056689343,
+            "ParameterValue": 0.5241657211497102
+          },
+          {
+            "Time": 4.580045351473923,
+            "ParameterValue": 0.6429426574254411
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticSharpnessControl",
+        "Time": 4.580045351473923,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 4.580045351473923,
+            "ParameterValue": 0.6429426574254411
+          },
+          {
+            "Time": 4.62358276643991,
+            "ParameterValue": 0.4932812488155619
+          },
+          {
+            "Time": 4.645804988662132,
+            "ParameterValue": 0.5975459002427713
+          },
+          {
+            "Time": 4.704761904761905,
+            "ParameterValue": 0.5524171458489313
+          },
+          {
+            "Time": 4.715192743764172,
+            "ParameterValue": 0.6937510976722817
+          },
+          {
+            "Time": 4.760090702947846,
+            "ParameterValue": 0.521695502678027
+          },
+          {
+            "Time": 4.771882086167801,
+            "ParameterValue": 0.6942405628767694
+          },
+          {
+            "Time": 4.79501133786848,
+            "ParameterValue": 0.595993126515441
+          },
+          {
+            "Time": 4.848979591836735,
+            "ParameterValue": 0.4980433567276819
+          },
+          {
+            "Time": 4.853514739229025,
+            "ParameterValue": 0.6139372522192692
+          },
+          {
+            "Time": 4.887528344671202,
+            "ParameterValue": 0.5542332718135142
+          },
+          {
+            "Time": 4.887981859410431,
+            "ParameterValue": 0.6741736595342789
+          },
+          {
+            "Time": 4.931065759637188,
+            "ParameterValue": 0.5143344753959181
+          },
+          {
+            "Time": 4.93968253968254,
+            "ParameterValue": 0.6350496465637395
+          },
+          {
+            "Time": 5.022675736961451,
+            "ParameterValue": 0.5227805637215229
+          },
+          {
+            "Time": 5.024489795918368,
+            "ParameterValue": 0.7239544453806557
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticSharpnessControl",
+        "Time": 5.024489795918368,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 5.024489795918368,
+            "ParameterValue": 0.7239544453806557
+          },
+          {
+            "Time": 5.06031746031746,
+            "ParameterValue": 0.5524745378096578
+          },
+          {
+            "Time": 5.109297052154195,
+            "ParameterValue": 0.461429548652453
+          },
+          {
+            "Time": 5.1138321995464855,
+            "ParameterValue": 0.5933312766540593
+          },
+          {
+            "Time": 5.198639455782313,
+            "ParameterValue": 0.4647838137377694
+          },
+          {
+            "Time": 5.236734693877551,
+            "ParameterValue": 0.5854681195474559
+          },
+          {
+            "Time": 5.289342403628118,
+            "ParameterValue": 0.49188277300248284
+          },
+          {
+            "Time": 5.291156462585034,
+            "ParameterValue": 0.6539983868712951
+          },
+          {
+            "Time": 5.370975056689343,
+            "ParameterValue": 0.4839034626448
+          },
+          {
+            "Time": 5.401360544217687,
+            "ParameterValue": 0.6036318593653129
+          },
+          {
+            "Time": 5.456689342403628,
+            "ParameterValue": 0.4927972120815214
+          },
+          {
+            "Time": 5.464852607709751,
+            "ParameterValue": 0.6940865768366633
+          },
+          {
+            "Time": 5.50249433106576,
+            "ParameterValue": 0.5465665812232285
+          },
+          {
+            "Time": 5.503401360544218,
+            "ParameterValue": 0.6377697830578803
+          },
+          {
+            "Time": 5.540136054421769,
+            "ParameterValue": 0.5155939243369565
+          },
+          {
+            "Time": 5.552380952380952,
+            "ParameterValue": 0.6859502187873776
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticSharpnessControl",
+        "Time": 5.552380952380952,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 5.552380952380952,
+            "ParameterValue": 0.6859502187873776
+          },
+          {
+            "Time": 5.596825396825397,
+            "ParameterValue": 0.5030715279125509
+          },
+          {
+            "Time": 5.642630385487529,
+            "ParameterValue": 0.6039513286995714
+          },
+          {
+            "Time": 5.6834467120181404,
+            "ParameterValue": 0.4908777863061151
+          },
+          {
+            "Time": 5.695238095238095,
+            "ParameterValue": 0.705812036836178
+          },
+          {
+            "Time": 5.753287981859411,
+            "ParameterValue": 0.47361132350997626
+          },
+          {
+            "Time": 5.777777777777778,
+            "ParameterValue": 0.6081207400903468
+          },
+          {
+            "Time": 5.840816326530613,
+            "ParameterValue": 0.4808317836771441
+          },
+          {
+            "Time": 5.862585034013605,
+            "ParameterValue": 0.6104810859299098
+          },
+          {
+            "Time": 5.903401360544218,
+            "ParameterValue": 0.6084120031229331
+          },
+          {
+            "Time": 5.944671201814059,
+            "ParameterValue": 0.49045393261565173
+          },
+          {
+            "Time": 5.9464852607709755,
+            "ParameterValue": 0.707386203243072
+          },
+          {
+            "Time": 6.033106575963719,
+            "ParameterValue": 0.5006327200099218
+          },
+          {
+            "Time": 6.03718820861678,
+            "ParameterValue": 0.6065490374689368
+          },
+          {
+            "Time": 6.071201814058957,
+            "ParameterValue": 0.5216273593094982
+          },
+          {
+            "Time": 6.080272108843538,
+            "ParameterValue": 0.6415551287065173
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticSharpnessControl",
+        "Time": 6.080272108843538,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 6.080272108843538,
+            "ParameterValue": 0.6415551287065173
+          },
+          {
+            "Time": 6.145124716553288,
+            "ParameterValue": 0.4947073183105319
+          },
+          {
+            "Time": 6.145578231292517,
+            "ParameterValue": 0.5951653125204835
+          },
+          {
+            "Time": 6.20498866213152,
+            "ParameterValue": 0.5497631144826719
+          },
+          {
+            "Time": 6.2140589569161,
+            "ParameterValue": 0.6912480029081156
+          },
+          {
+            "Time": 6.26031746031746,
+            "ParameterValue": 0.5196955694327987
+          },
+          {
+            "Time": 6.272108843537415,
+            "ParameterValue": 0.6924560578550275
+          },
+          {
+            "Time": 6.295238095238095,
+            "ParameterValue": 0.5935171952775823
+          },
+          {
+            "Time": 6.3487528344671205,
+            "ParameterValue": 0.49720582341158687
+          },
+          {
+            "Time": 6.3546485260770975,
+            "ParameterValue": 0.6129155175803594
+          },
+          {
+            "Time": 6.387301587301588,
+            "ParameterValue": 0.5531301756173522
+          },
+          {
+            "Time": 6.388208616780045,
+            "ParameterValue": 0.6718545523894148
+          },
+          {
+            "Time": 6.431292517006803,
+            "ParameterValue": 0.5121827612879718
+          },
+          {
+            "Time": 6.439455782312925,
+            "ParameterValue": 0.6330228113956639
+          },
+          {
+            "Time": 6.522902494331066,
+            "ParameterValue": 0.5229942701158045
+          },
+          {
+            "Time": 6.523356009070295,
+            "ParameterValue": 0.7219736084999804
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticSharpnessControl",
+        "Time": 6.523356009070295,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 6.523356009070295,
+            "ParameterValue": 0.7219736084999804
+          },
+          {
+            "Time": 6.560544217687075,
+            "ParameterValue": 0.5498273050532945
+          },
+          {
+            "Time": 6.609070294784581,
+            "ParameterValue": 0.4604898380118905
+          },
+          {
+            "Time": 6.6140589569161,
+            "ParameterValue": 0.5914746697955826
+          },
+          {
+            "Time": 6.694784580498866,
+            "ParameterValue": 0.45280596630458975
+          },
+          {
+            "Time": 6.735600907029479,
+            "ParameterValue": 0.5851170132979185
+          },
+          {
+            "Time": 6.789569160997733,
+            "ParameterValue": 0.4935755350038903
+          },
+          {
+            "Time": 6.79092970521542,
+            "ParameterValue": 0.6520686262194212
+          },
+          {
+            "Time": 6.825850340136054,
+            "ParameterValue": 0.5379016403826743
+          },
+          {
+            "Time": 6.871201814058957,
+            "ParameterValue": 0.48283385391481765
+          },
+          {
+            "Time": 6.90249433106576,
+            "ParameterValue": 0.6031589341080167
+          },
+          {
+            "Time": 6.956916099773243,
+            "ParameterValue": 0.49162905653417754
+          },
+          {
+            "Time": 6.965079365079365,
+            "ParameterValue": 0.6922107263451673
+          },
+          {
+            "Time": 7.002721088435374,
+            "ParameterValue": 0.5446859626877376
+          },
+          {
+            "Time": 7.003174603174603,
+            "ParameterValue": 0.6372946048331268
+          },
+          {
+            "Time": 7.039909297052154,
+            "ParameterValue": 0.515563460753118
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticSharpnessControl",
+        "Time": 7.039909297052154,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 7.039909297052154,
+            "ParameterValue": 0.515563460753118
+          },
+          {
+            "Time": 7.0521541950113384,
+            "ParameterValue": 0.6856847143253094
+          },
+          {
+            "Time": 7.096598639455783,
+            "ParameterValue": 0.5031970999273421
+          },
+          {
+            "Time": 7.13514739229025,
+            "ParameterValue": 0.6215921430440446
+          },
+          {
+            "Time": 7.183219954648526,
+            "ParameterValue": 0.49014565112269426
+          },
+          {
+            "Time": 7.195011337868481,
+            "ParameterValue": 0.7047989553498862
+          },
+          {
+            "Time": 7.272108843537415,
+            "ParameterValue": 0.44467288853362236
+          },
+          {
+            "Time": 7.276643990929705,
+            "ParameterValue": 0.6081500507717632
+          },
+          {
+            "Time": 7.340589569160998,
+            "ParameterValue": 0.48102707237912107
+          },
+          {
+            "Time": 7.36281179138322,
+            "ParameterValue": 0.6090470840947251
+          },
+          {
+            "Time": 7.4031746031746035,
+            "ParameterValue": 0.6082306853149437
+          },
+          {
+            "Time": 7.444897959183674,
+            "ParameterValue": 0.48967531745082227
+          },
+          {
+            "Time": 7.447619047619048,
+            "ParameterValue": 0.7056434057459171
+          },
+          {
+            "Time": 7.533333333333333,
+            "ParameterValue": 0.49936799831014683
+          },
+          {
+            "Time": 7.536961451247166,
+            "ParameterValue": 0.6052165522410264
+          },
+          {
+            "Time": 7.570975056689343,
+            "ParameterValue": 0.5210011026520375
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticSharpnessControl",
+        "Time": 7.570975056689343,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 7.570975056689343,
+            "ParameterValue": 0.5210011026520375
+          },
+          {
+            "Time": 7.580045351473923,
+            "ParameterValue": 0.6405926781451092
+          },
+          {
+            "Time": 7.62358276643991,
+            "ParameterValue": 0.491212645544281
+          },
+          {
+            "Time": 7.645804988662132,
+            "ParameterValue": 0.5938168039089575
+          },
+          {
+            "Time": 7.704761904761905,
+            "ParameterValue": 0.5491527288949799
+          },
+          {
+            "Time": 7.715192743764172,
+            "ParameterValue": 0.6897876150548018
+          },
+          {
+            "Time": 7.760090702947846,
+            "ParameterValue": 0.5193813302814617
+          },
+          {
+            "Time": 7.771882086167801,
+            "ParameterValue": 0.6917332596060201
+          },
+          {
+            "Time": 7.795011337868481,
+            "ParameterValue": 0.5936592766529387
+          },
+          {
+            "Time": 7.848979591836735,
+            "ParameterValue": 0.4960909334390018
+          },
+          {
+            "Time": 7.853514739229025,
+            "ParameterValue": 0.613273657724546
+          },
+          {
+            "Time": 7.887528344671202,
+            "ParameterValue": 0.5514666611411992
+          },
+          {
+            "Time": 7.887981859410431,
+            "ParameterValue": 0.6705260082449555
+          },
+          {
+            "Time": 7.931065759637188,
+            "ParameterValue": 0.5117771727326043
+          },
+          {
+            "Time": 7.93968253968254,
+            "ParameterValue": 0.6328847417780636
+          },
+          {
+            "Time": 8.022675736961451,
+            "ParameterValue": 0.5203994608738778
+          }
+        ]
+      }
+    },
+    {
+      "ParameterCurve": {
+        "ParameterID": "HapticSharpnessControl",
+        "Time": 8.022675736961451,
+        "ParameterCurveControlPoints": [
+          {
+            "Time": 8.022675736961451,
+            "ParameterValue": 0.5203994608738778
+          },
+          {
+            "Time": 8.024489795918367,
+            "ParameterValue": 0.7204591480550901
+          },
+          {
+            "Time": 8.06031746031746,
+            "ParameterValue": 0.5497049065801387
+          },
+          {
+            "Time": 8.109297052154195,
+            "ParameterValue": 0.4595730467174954
+          },
+          {
+            "Time": 8.113832199546485,
+            "ParameterValue": 0.5903721442352229
+          },
+          {
+            "Time": 8.188662131519274,
+            "ParameterValue": 0.45187259210742825
+          },
+          {
+            "Time": 8.236734693877551,
+            "ParameterValue": 0.5849669211001355
+          },
+          {
+            "Time": 8.289342403628119,
+            "ParameterValue": 0.4898967943554258
+          },
+          {
+            "Time": 8.291156462585034,
+            "ParameterValue": 0.6507683064908624
+          },
+          {
+            "Time": 8.326530612244898,
+            "ParameterValue": 0.4597411277596051
+          }
+        ]
+      }
+    }
+  ]
+}

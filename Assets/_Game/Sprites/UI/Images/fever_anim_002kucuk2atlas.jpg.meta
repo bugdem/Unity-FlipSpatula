@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: eef1645ef33e5484aa4105da591b62a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7917779293046907012
+    second: fever_anim_002kucuk2atlas_0
+  - first:
+      213: 8026179607828570067
+    second: fever_anim_002kucuk2atlas_1
+  - first:
+      213: 6891254784695006751
+    second: fever_anim_002kucuk2atlas_2
+  - first:
+      213: -5114960177109728579
+    second: fever_anim_002kucuk2atlas_3
+  - first:
+      213: 6258092544705473854
+    second: fever_anim_002kucuk2atlas_4
+  - first:
+      213: 6039713939209329125
+    second: fever_anim_002kucuk2atlas_5
+  - first:
+      213: -4785724872583041517
+    second: fever_anim_002kucuk2atlas_6
+  - first:
+      213: -696324174079350292
+    second: fever_anim_002kucuk2atlas_7
+  - first:
+      213: 8225747930744472696
+    second: fever_anim_002kucuk2atlas_8
+  - first:
+      213: 2798182177175080337
+    second: fever_anim_002kucuk2atlas_9
+  - first:
+      213: 3350296839268800175
+    second: fever_anim_002kucuk2atlas_10
+  - first:
+      213: -7052546290678906679
+    second: fever_anim_002kucuk2atlas_11
+  - first:
+      213: -5304486468848782957
+    second: fever_anim_002kucuk2atlas_12
+  - first:
+      213: 8966297908816995844
+    second: fever_anim_002kucuk2atlas_13
+  - first:
+      213: 751590212642364975
+    second: fever_anim_002kucuk2atlas_14
+  - first:
+      213: 8125081963758953452
+    second: fever_anim_002kucuk2atlas_15
+  - first:
+      213: 4884742831731323060
+    second: fever_anim_002kucuk2atlas_16
+  - first:
+      213: 5057064675531228243
+    second: fever_anim_002kucuk2atlas_17
+  - first:
+      213: 2813280018739939031
+    second: fever_anim_002kucuk2atlas_18
+  - first:
+      213: 3962316827418661383
+    second: fever_anim_002kucuk2atlas_19
+  - first:
+      213: 730391629791256653
+    second: fever_anim_002kucuk2atlas_20
+  - first:
+      213: -497669279864990106
+    second: fever_anim_002kucuk2atlas_21
+  - first:
+      213: 1101813553659600734
+    second: fever_anim_002kucuk2atlas_22
+  - first:
+      213: -4061395537900451737
+    second: fever_anim_002kucuk2atlas_23
+  - first:
+      213: -789206593420814067
+    second: fever_anim_002kucuk2atlas_24
+  - first:
+      213: 1003207172985907731
+    second: fever_anim_002kucuk2atlas_25
+  - first:
+      213: 8714774863037265166
+    second: fever_anim_002kucuk2atlas_26
+  - first:
+      213: -2735874432776459688
+    second: fever_anim_002kucuk2atlas_27
+  - first:
+      213: -5362504068117758531
+    second: fever_anim_002kucuk2atlas_28
+  - first:
+      213: 5223421918246152181
+    second: fever_anim_002kucuk2atlas_29
+  - first:
+      213: -5627199130402288104
+    second: fever_anim_002kucuk2atlas_30
+  - first:
+      213: -2423509527565081511
+    second: fever_anim_002kucuk2atlas_31
+  - first:
+      213: 8173340238597982715
+    second: fever_anim_002kucuk2atlas_32
+  - first:
+      213: -61120142920449522
+    second: fever_anim_002kucuk2atlas_33
+  - first:
+      213: 6048610372876628605
+    second: fever_anim_002kucuk2atlas_34
+  - first:
+      213: 2852146871297621266
+    second: fever_anim_002kucuk2atlas_35
+  - first:
+      213: -482012537951441446
+    second: fever_anim_002kucuk2atlas_36
+  - first:
+      213: 3384916823153078969
+    second: fever_anim_002kucuk2atlas_37
+  - first:
+      213: -7297527271231838665
+    second: fever_anim_002kucuk2atlas_38
+  - first:
+      213: -2307712909717838511
+    second: fever_anim_002kucuk2atlas_39
+  - first:
+      213: 3836149164810651676
+    second: fever_anim_002kucuk2atlas_40
+  - first:
+      213: -7205637472832063122
+    second: fever_anim_002kucuk2atlas_41
+  - first:
+      213: -7097914689614721339
+    second: fever_anim_002kucuk2atlas_42
+  - first:
+      213: 5795732780540172433
+    second: fever_anim_002kucuk2atlas_43
+  - first:
+      213: -4775562840207172730
+    second: fever_anim_002kucuk2atlas_44
+  - first:
+      213: 4136755756109069436
+    second: fever_anim_002kucuk2atlas_45
+  - first:
+      213: 5960823839471436602
+    second: fever_anim_002kucuk2atlas_46
+  - first:
+      213: -5896829136481388205
+    second: fever_anim_002kucuk2atlas_47
+  - first:
+      213: 822847606933661775
+    second: fever_anim_002kucuk2atlas_48
+  - first:
+      213: 3156010506129010907
+    second: fever_anim_002kucuk2atlas_49
+  - first:
+      213: 5583681579720186211
+    second: fever_anim_002kucuk2atlas_50
+  - first:
+      213: 3349729045418653363
+    second: fever_anim_002kucuk2atlas_51
+  - first:
+      213: -7828037638119048343
+    second: fever_anim_002kucuk2atlas_52
+  - first:
+      213: 355501484547088280
+    second: fever_anim_002kucuk2atlas_53
+  - first:
+      213: 8816040664208624134
+    second: fever_anim_002kucuk2atlas_54
+  - first:
+      213: -6404406833770638
+    second: fever_anim_002kucuk2atlas_55
+  - first:
+      213: -3826256729645122774
+    second: fever_anim_002kucuk2atlas_56
+  - first:
+      213: -346928728140014960
+    second: fever_anim_002kucuk2atlas_57
+  - first:
+      213: -8958541188652279440
+    second: fever_anim_002kucuk2atlas_58
+  - first:
+      213: -6072761238723060103
+    second: fever_anim_002kucuk2atlas_59
+  - first:
+      213: 5994559339878399907
+    second: fever_anim_002kucuk2atlas_60
+  - first:
+      213: 6393617568512814440
+    second: fever_anim_002kucuk2atlas_61
+  - first:
+      213: 1619599037494122361
+    second: fever_anim_002kucuk2atlas_62
+  - first:
+      213: 3174714119210538534
+    second: fever_anim_002kucuk2atlas_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 2
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fever_anim_002kucuk2atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480210c115a91ed60800000000000000
+      internalID: 7917779293046907012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fever_anim_002kucuk2atlas_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df1b1c24d7b26f60800000000000000
+      internalID: 8026179607828570067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fever_anim_002kucuk2atlas_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16f47a17b7a2af50800000000000000
+      internalID: 6891254784695006751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fever_anim_002kucuk2atlas_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db20b13b1d20409b0800000000000000
+      internalID: -5114960177109728579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fever_anim_002kucuk2atlas_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3da0ba330639d650800000000000000
+      internalID: 6258092544705473854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fever_anim_002kucuk2atlas_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e91c83f3df51d350800000000000000
+      internalID: 6039713939209329125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fever_anim_002kucuk2atlas_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31eafe09590b59db0800000000000000
+      internalID: -4785724872583041517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fever_anim_002kucuk2atlas_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9ab7b5ad82656f0800000000000000
+      internalID: -696324174079350292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fever_anim_002kucuk2atlas_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874cdef392ab72270800000000000000
+      internalID: 8225747930744472696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a6f44316a46642840a98e0397f4a8ceb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fever_anim_002kucuk2atlas_5: 6039713939209329125
+      fever_anim_002kucuk2atlas_3: -5114960177109728579
+      fever_anim_002kucuk2atlas_4: 6258092544705473854
+      fever_anim_002kucuk2atlas_6: -4785724872583041517
+      fever_anim_002kucuk2atlas_0: 7917779293046907012
+      fever_anim_002kucuk2atlas_2: 6891254784695006751
+      fever_anim_002kucuk2atlas_7: -696324174079350292
+      fever_anim_002kucuk2atlas_1: 8026179607828570067
+      fever_anim_002kucuk2atlas_8: 8225747930744472696
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

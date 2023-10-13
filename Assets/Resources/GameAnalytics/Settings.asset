@@ -1,0 +1,237 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f78192cec1344d83a177ac5e6139ab3, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  TotalMessagesSubmitted: 0
+  TotalMessagesFailed: 0
+  DesignMessagesSubmitted: 0
+  DesignMessagesFailed: 0
+  QualityMessagesSubmitted: 0
+  QualityMessagesFailed: 0
+  ErrorMessagesSubmitted: 0
+  ErrorMessagesFailed: 0
+  BusinessMessagesSubmitted: 0
+  BusinessMessagesFailed: 0
+  UserMessagesSubmitted: 0
+  UserMessagesFailed: 0
+  CustomArea: 
+  gameKey:
+  - 5e7fed61b04aa67ee9d7e012b2b446aa
+  secretKey:
+  - b3f514f83975c0666fd1c5cf1bb79d7302ac5f0e
+  Build:
+  - 1.00
+  SelectedPlatformOrganization:
+  - Clocknest Games
+  SelectedPlatformStudio:
+  - Clocknest Games
+  SelectedPlatformGame:
+  - Flip Spatula!
+  SelectedPlatformGameID: 2b700200
+  SelectedOrganization: 01000000
+  SelectedStudio: 01000000
+  SelectedGame: 10000000
+  NewVersion: 6.5.6
+  Changes: '6.5.6
+
+    - fixed crash bug for ios
+
+
+    6.5.5
+
+    - reverted back
+    to v6.5.2 as crashes happen for ios which have not been narrowed down to what
+    is causing this yet
+
+
+    6.5.4
+
+    - fixed typo error
+
+
+    6.5.3
+
+    - added
+    support for max in impression events
+
+    - fixed dupplicate symbol on ios
+
+
+    6.5.2
+
+    -
+    fixed crashes for android devices without google play API (android)
+
+
+    6.5.1
+
+    -
+    added support for OAID (android)
+
+    - added missing export function for UWP
+    lib (uwp)
+
+
+    6.5.0
+
+    - added app tracking transparency request function
+    (ios)
+
+
+    6.4.1
+
+    - added idfa consent status field to events (ios)
+
+
+    6.4.0
+
+    -
+    added support for unity package manager
+
+
+    6.3.14
+
+    - fixed playmaker scripts
+
+
+    6.3.13
+
+    -
+    fixed compiler errors for 2017.1
+
+    - updated client ts validator
+
+
+    6.3.12
+
+    -
+    changed AppTrackingTransparency dependency to be optional for iOS
+
+
+    6.3.11
+
+    -
+    fixed dependencies for iOS (min. XCode 12 required)
+
+
+    6.3.10
+
+    - fix to
+    mopub impression events, require min. mopub v5.14.0
+
+    - REMEMBER to update
+    to this version of the SDK if you use MoPub impression events and you have min.
+    v5.14.0 of MoPub SDK inatalled or else the SDK will not send MoPub impression
+    event for you any more
+
+
+    6.3.9
+
+    - fixed ironsource impression event compile
+    error
+
+
+    6.3.8
+
+    - removed memory info from automatic crash reports
+
+    -
+    updated sqlite lib
+
+
+    6.3.7
+
+    - corrected ad event annotation
+
+
+    6.3.6
+
+    -
+    updated validator for impression events (android, ios)
+
+
+    6.3.5
+
+    - fixed
+    user log in function in editor for unity 2017
+
+
+    6.3.4
+
+    - fixed null exception
+    happening some times on desktop platforms (mac, linux, windows)
+
+
+    6.3.3
+
+    -
+    updated impression events
+
+
+    6.3.2
+
+    - fixed www build errors on unity
+    2017'
+  SignUpOpen: 0
+  StudioName: 
+  GameName: Flip Spatula!
+  OrganizationName: 
+  OrganizationIdentifier: 
+  EmailGA: bugrahandemir@gmail.com
+  IntroScreen: 0
+  InfoLogEditor: 1
+  InfoLogBuild: 1
+  VerboseLogBuild: 0
+  UseManualSessionHandling: 0
+  SendExampleGameDataToMyGame: 0
+  UseIMEI: 0
+  InternetConnectivity: 0
+  CustomDimensions01: []
+  CustomDimensions02: []
+  CustomDimensions03: []
+  ResourceItemTypes: []
+  ResourceCurrencies: []
+  LastCreatedGamePlatform: -1
+  Platforms: 08000000
+  CurrentInspectorState: 1
+  ClosedHints: 
+  DisplayHints: 0
+  DisplayHintsScrollState: {x: 0, y: 0}
+  Logo: {fileID: 2800000, guid: 98df8f9c5678a4e5d964caa1244e8958, type: 3}
+  UpdateIcon: {fileID: 2800000, guid: 810bbb19deed24f3cb7b854f9bafde26, type: 3}
+  InfoIcon: {fileID: 2800000, guid: 1b4dd779aadd54ac88856975af0d3c0a, type: 3}
+  DeleteIcon: {fileID: 2800000, guid: 85a626f1668244d30a4e9f616991a793, type: 3}
+  GameIcon: {fileID: 2800000, guid: a9ac7103fc40b4e00923bf8c2cb5d30f, type: 3}
+  HomeIcon: {fileID: 2800000, guid: fe7e2ecc9b2fe447bafe90f6395d4709, type: 3}
+  InstrumentIcon: {fileID: 2800000, guid: 2ba470b4dffd848c6b267c34770cc63e, type: 3}
+  QuestionIcon: {fileID: 2800000, guid: f8ea67e311b0c4b2ea05718e90fd3b5b, type: 3}
+  UserIcon: {fileID: 2800000, guid: f49ef75333ff247cfb5dad4dab0d4dac, type: 3}
+  AmazonIcon: {fileID: 0}
+  GooglePlayIcon: {fileID: 0}
+  iosIcon: {fileID: 0}
+  macIcon: {fileID: 0}
+  windowsPhoneIcon: {fileID: 0}
+  UsePlayerSettingsBuildNumber: 0
+  SubmitErrors: 1
+  MaxErrorCount: 10
+  SubmitFpsAverage: 1
+  SubmitFpsCritical: 1
+  IncludeGooglePlay: 1
+  FpsCriticalThreshold: 20
+  FpsCirticalSubmitInterval: 1
+  PlatformFoldOut: 01
+  CustomDimensions01FoldOut: 0
+  CustomDimensions02FoldOut: 0
+  CustomDimensions03FoldOut: 0
+  ResourceItemTypesFoldOut: 0
+  ResourceCurrenciesFoldOut: 0
